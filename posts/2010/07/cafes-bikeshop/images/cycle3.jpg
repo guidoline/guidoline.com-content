@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie lt-ie9 lt-ie8 lt-ie7 ie6" lang="fr-FR"><![endif]-->
+<!--[if IE 7 ]><html class="ie lt-ie9 lt-ie8 ie7" lang="fr-FR"><![endif]-->
+<!--[if IE 8 ]><html class="ie lt-ie9 ie8" lang="fr-FR"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="fr-FR"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="fr-FR"> <!--<![endif]--><head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="shortcut icon" href="http://www.guidoline.com/wp-content/uploads/2014/03/logo-guidoline11.png" />
+
+<title>Page non trouvée &#8211; Guidoline</title>
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Guidoline &raquo; Flux" href="http://guidoline.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Guidoline &raquo; Flux des commentaires" href="http://guidoline.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/guidoline.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://guidoline.com/wp-content/plugins/instagram-feed/css/sb-instagram-2-1.min.css?ver=2.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://guidoline.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='Roboto-css'  href='http://fonts.googleapis.com/css?family=Roboto&#038;subset=latin%2Ccyrillic&#038;ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='Montserrat-css'  href='http://fonts.googleapis.com/css?family=Montserrat&#038;subset=latin%2Ccyrillic&#038;ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-min-css'  href='http://guidoline.com/wp-content/themes/omni/assets/css/bootstrap.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://guidoline.com/wp-content/themes/omni/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='entypo-css'  href='http://guidoline.com/wp-content/themes/omni/assets/css/entypo.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://guidoline.com/wp-content/themes/omni/assets/css/magnific-popup.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://guidoline.com/wp-content/themes/omni/assets/css/flexslider.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='options-css'  href='http://guidoline.com/wp-content/themes/omni/assets/css/custom.css?ver=5.3.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vp_sg = [{"name":"sg_main","modal_title":"Omni Shortcodes","button_title":"Custom Shortcodes","main_image":"http:\/\/guidoline.com\/wp-content\/themes\/omni\/vafpress-framework\/public\/img\/vp_shortcode_icon.png","sprite_image":"http:\/\/guidoline.com\/wp-content\/themes\/omni\/vafpress-framework\/public\/img\/vp_shortcode_icon_sprite.png"}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/vafpress-framework/public/js/dummy.js?ver=5.3.2'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://guidoline.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://guidoline.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://guidoline.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements --><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+
+<body class="error404">
+		
+        <!-- Begin Header - One Page -->
+        <div id="top" class="header-type">
+        	<div class="container">
+            	<div class="row">
+                		<div class="span24">
+                        	                        	<div class="logo pull-left"><a href="http://guidoline.com"><img src="http://www.guidoline.com/wp-content/uploads/2014/03/logo-guidoline.jpg" alt="Guidoline" /></a></div>
+                                                        <div class="pull-right">
+                                <ul class="address pull-left">
+	<li>38 rue Molière</li>
+	<li>•</li>
+	<li>76000</li>
+	<li>•</li>
+	<li>Rouen</li>
+	<li>•</li>
+	<li>09.52.52.67.11</li>
+</ul>                                <ul class="adds pull-left">
+                                	<li><a class="icon-mail scroll-to" href="mailto:contact@guidoline.com" data-placement="bottom" data-toggle="tooltip" title="Envoyer un e-mail"></a></li>                                </ul>
+                                                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <!-- // End Header -->
+        
+
+      	        <!-- Begin Main Navigation -->
+        <div id="main-nav" class="nav-container">
+                <nav class="main-nav clearfix one-page-nav" role="navigation">
+                    
+                    <ul id="menu-menu-principal" class="nav main-menu onepagenav"><li id="menu-item-4093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4093"><a href="http://guidoline.com#atelier-de-bicyclette">Atelier de bicyclette</a></li>
+<li id="menu-item-4094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4094"><a href="http://guidoline.com#blog">Nos actualités</a></li>
+<li id="menu-item-4095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4095"><a href="http://guidoline.com#animations">Nos animations</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://guidoline.com#comment-participer">Comment participer ?</a></li>
+</ul>                               
+                </nav>
+        </div>
+        <!-- // End Main Navigation -->
+        
+			<!-- BEGIN #primary .hfeed-->
+			<div id="primary" class="hfeed">
+			
+				<!-- BEGIN #post-0-->
+				<div id="post-0">
+					
+					<h1 class="entry-title">Error 404 - Not Found</h1>
+					
+					<!-- BEGIN .entry-content-->
+					<div class="entry-content">
+						<p>Sorry, but you are looking for something that isn't here.</p>
+					<!-- END .entry-content-->
+					</div>
+					
+				<!-- END #post-0-->
+				</div>
+				
+			<!-- END #primary .hfeed-->
+			</div>
+ 
+		<div class="sidebar" role="complementary">
+        	<div id="search-2" class="widget widget_search">	<form method="get" id="searchform" action="http://guidoline.com/" class="searchform">
+		<label for="s" class="assistive-text">Recherche</label>
+		<input type="text" class="field input-block-level" name="s" id="s" />
+		<input type="submit" class="submit btn border-btn btn-small" name="submit" id="searchsubmit" value="Rechercher" />
+	</form></div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h5 class="widget-title">Articles récents</h5>		<ul>
+											<li>
+					<a href="http://guidoline.com/newsletter-decembre-2019/">Newsletter Décembre 2019</a>
+									</li>
+											<li>
+					<a href="http://guidoline.com/newsletter-juillet-2019/">Newsletter Juillet 2019</a>
+									</li>
+											<li>
+					<a href="http://guidoline.com/guidoline-recrute-un-volontaire/">Guidoline, recrute un volontaire</a>
+									</li>
+											<li>
+					<a href="http://guidoline.com/rejoignez-lequipe-guidoline-recherche-une-responsable-datelier/">Rejoignez l&rsquo;équipe ! Guidoline recherche un(e) responsable d&rsquo;atelier</a>
+									</li>
+											<li>
+					<a href="http://guidoline.com/guidoline-ouvre-un-second-atelier-velo/">Guidoline ouvre un second atelier vélo !</a>
+									</li>
+					</ul>
+		</div><div id="recent-comments-2" class="widget widget_recent_comments"><h5 class="widget-title">Commentaires récents</h5><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">AMRI Takwa</span> dans <a href="http://guidoline.com/guidoline-recrute-des-volontaires-en-service-civique-2015/#comment-2478">Guidoline recrute des volontaires en Service Civique !</a></li><li class="recentcomments"><span class="comment-author-link">demercastel</span> dans <a href="http://guidoline.com/concours-delegance-la-quincampoise/#comment-2477">Photos concours d&rsquo;élégance &#8211; La Quincampoise</a></li><li class="recentcomments"><span class="comment-author-link">Nico</span> dans <a href="http://guidoline.com/roller-racing-okallaghans-rouen/#comment-2471">Roller racing – O&rsquo;Kallaghan&rsquo;s &#8211; Rouen</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.behance.net/yaski' rel='external nofollow ugc' class='url'>Yann</a></span> dans <a href="http://guidoline.com/roller-racing-okallaghans-rouen/#comment-2470">Roller racing – O&rsquo;Kallaghan&rsquo;s &#8211; Rouen</a></li><li class="recentcomments"><span class="comment-author-link">greg</span> dans <a href="http://guidoline.com/hollywood-polo/#comment-2433">Hollywood polo</a></li></ul></div><div id="archives-2" class="widget widget_archive"><h5 class="widget-title">Archives</h5>		<ul>
+				<li><a href='http://guidoline.com/2019/12/'>décembre 2019</a></li>
+	<li><a href='http://guidoline.com/2019/07/'>juillet 2019</a></li>
+	<li><a href='http://guidoline.com/2019/06/'>juin 2019</a></li>
+	<li><a href='http://guidoline.com/2019/04/'>avril 2019</a></li>
+	<li><a href='http://guidoline.com/2019/03/'>mars 2019</a></li>
+	<li><a href='http://guidoline.com/2018/11/'>novembre 2018</a></li>
+	<li><a href='http://guidoline.com/2018/10/'>octobre 2018</a></li>
+	<li><a href='http://guidoline.com/2018/09/'>septembre 2018</a></li>
+	<li><a href='http://guidoline.com/2018/06/'>juin 2018</a></li>
+	<li><a href='http://guidoline.com/2018/05/'>mai 2018</a></li>
+	<li><a href='http://guidoline.com/2017/12/'>décembre 2017</a></li>
+	<li><a href='http://guidoline.com/2017/10/'>octobre 2017</a></li>
+	<li><a href='http://guidoline.com/2017/09/'>septembre 2017</a></li>
+	<li><a href='http://guidoline.com/2017/08/'>août 2017</a></li>
+	<li><a href='http://guidoline.com/2017/07/'>juillet 2017</a></li>
+	<li><a href='http://guidoline.com/2017/05/'>mai 2017</a></li>
+	<li><a href='http://guidoline.com/2017/04/'>avril 2017</a></li>
+	<li><a href='http://guidoline.com/2017/01/'>janvier 2017</a></li>
+	<li><a href='http://guidoline.com/2016/12/'>décembre 2016</a></li>
+	<li><a href='http://guidoline.com/2016/06/'>juin 2016</a></li>
+	<li><a href='http://guidoline.com/2016/05/'>mai 2016</a></li>
+	<li><a href='http://guidoline.com/2016/03/'>mars 2016</a></li>
+	<li><a href='http://guidoline.com/2016/01/'>janvier 2016</a></li>
+	<li><a href='http://guidoline.com/2015/11/'>novembre 2015</a></li>
+	<li><a href='http://guidoline.com/2015/07/'>juillet 2015</a></li>
+	<li><a href='http://guidoline.com/2015/05/'>mai 2015</a></li>
+	<li><a href='http://guidoline.com/2014/12/'>décembre 2014</a></li>
+	<li><a href='http://guidoline.com/2014/11/'>novembre 2014</a></li>
+	<li><a href='http://guidoline.com/2014/07/'>juillet 2014</a></li>
+	<li><a href='http://guidoline.com/2014/04/'>avril 2014</a></li>
+	<li><a href='http://guidoline.com/2014/03/'>mars 2014</a></li>
+	<li><a href='http://guidoline.com/2014/01/'>janvier 2014</a></li>
+	<li><a href='http://guidoline.com/2013/07/'>juillet 2013</a></li>
+	<li><a href='http://guidoline.com/2013/06/'>juin 2013</a></li>
+	<li><a href='http://guidoline.com/2013/05/'>mai 2013</a></li>
+	<li><a href='http://guidoline.com/2013/04/'>avril 2013</a></li>
+	<li><a href='http://guidoline.com/2013/03/'>mars 2013</a></li>
+	<li><a href='http://guidoline.com/2013/02/'>février 2013</a></li>
+	<li><a href='http://guidoline.com/2012/07/'>juillet 2012</a></li>
+	<li><a href='http://guidoline.com/2012/06/'>juin 2012</a></li>
+	<li><a href='http://guidoline.com/2012/05/'>mai 2012</a></li>
+	<li><a href='http://guidoline.com/2012/04/'>avril 2012</a></li>
+	<li><a href='http://guidoline.com/2012/03/'>mars 2012</a></li>
+	<li><a href='http://guidoline.com/2012/02/'>février 2012</a></li>
+	<li><a href='http://guidoline.com/2011/12/'>décembre 2011</a></li>
+	<li><a href='http://guidoline.com/2011/11/'>novembre 2011</a></li>
+	<li><a href='http://guidoline.com/2011/10/'>octobre 2011</a></li>
+	<li><a href='http://guidoline.com/2011/09/'>septembre 2011</a></li>
+	<li><a href='http://guidoline.com/2011/08/'>août 2011</a></li>
+	<li><a href='http://guidoline.com/2011/06/'>juin 2011</a></li>
+	<li><a href='http://guidoline.com/2011/05/'>mai 2011</a></li>
+	<li><a href='http://guidoline.com/2011/04/'>avril 2011</a></li>
+	<li><a href='http://guidoline.com/2011/02/'>février 2011</a></li>
+	<li><a href='http://guidoline.com/2011/01/'>janvier 2011</a></li>
+	<li><a href='http://guidoline.com/2010/12/'>décembre 2010</a></li>
+	<li><a href='http://guidoline.com/2010/11/'>novembre 2010</a></li>
+	<li><a href='http://guidoline.com/2010/10/'>octobre 2010</a></li>
+	<li><a href='http://guidoline.com/2010/09/'>septembre 2010</a></li>
+	<li><a href='http://guidoline.com/2010/08/'>août 2010</a></li>
+	<li><a href='http://guidoline.com/2010/07/'>juillet 2010</a></li>
+	<li><a href='http://guidoline.com/2010/06/'>juin 2010</a></li>
+	<li><a href='http://guidoline.com/2010/05/'>mai 2010</a></li>
+	<li><a href='http://guidoline.com/2010/04/'>avril 2010</a></li>
+	<li><a href='http://guidoline.com/2010/03/'>mars 2010</a></li>
+	<li><a href='http://guidoline.com/2010/02/'>février 2010</a></li>
+	<li><a href='http://guidoline.com/2010/01/'>janvier 2010</a></li>
+	<li><a href='http://guidoline.com/2009/12/'>décembre 2009</a></li>
+		</ul>
+			</div><div id="categories-2" class="widget widget_categories"><h5 class="widget-title">Catégories</h5>		<ul>
+				<li class="cat-item cat-item-2"><a href="http://guidoline.com/category/association/">Association</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://guidoline.com/category/atelier-bicyclette/">Atelier de bicylette</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://guidoline.com/category/atelier-mobile/">Atelier mobile</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://guidoline.com/category/balade/">Balade</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://guidoline.com/category/bike-polo/">Bike polo</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://guidoline.com/category/cafe/">Café culturel</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://guidoline.com/category/evenement/">Evènement</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://guidoline.com/category/formation/">Formation</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://guidoline.com/category/newsletter/">Newsletter</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://guidoline.com/category/non-classe/">Non classé</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://guidoline.com/category/on-aime/">On aime</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://guidoline.com/category/rolllerracing/">Roller racing</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://guidoline.com/category/shop/">Shop</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://guidoline.com/category/video/">Vidéo</a>
+</li>
+		</ul>
+			</div><div id="meta-2" class="widget widget_meta"><h5 class="widget-title">Méta</h5>			<ul>
+						<li><a href="http://guidoline.com/wp-login.php">Connexion</a></li>
+			<li><a href="http://guidoline.com/feed/">Flux des publications</a></li>
+			<li><a href="http://guidoline.com/comments/feed/">Flux des commentaires</a></li>
+			<li><a href="https://fr.wordpress.org/">Site de WordPress-FR</a></li>			</ul>
+			</div>		</div>
+
+		<!-- Begin Footer -->
+        <footer class="footer-type">
+        	<div class="container">
+            	<div class="row">
+                	<div class="span24 text-center">
+                    		<p class="partenaire"><img src="http://guidoline.com/wp-content/themes/omni/images/logo-partenaire.png"></p>
+                    		                    		<p class="copyright">&copy; <a href="http://guidoline.com">Guidoline</a> All Right Reserved</p>
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- // End Footer -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-15294472-1', 'guidoline.com');
+  ga('send', 'pageview');
+
+</script><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://guidoline.com/wp-admin/admin-ajax.php";
+</script>
+<script type="text/javascript">
+var templateDir = "http://guidoline.com/wp-content/themes/omni"
+</script>
+
+
+<script type="text/javascript">
+var profileCarouselIds = ""
+</script>
+
+
+<script type="text/javascript">
+var tiledItemsRows = 3
+
+</script>
+
+
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/bootstrap.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.nav.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.parallax.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.hoverdir.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.isotope.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.sticky.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.magnific-popup.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.flexslider.min.js?ver=2.2.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.tiledItems.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.tweet.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.fitvids.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.superfish.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/plugins/jquery.mobilemenu.js?ver=1.1'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/contact-form.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/newsletter.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/gmap3.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-content/themes/omni/assets/js/omni.js?ver=1.2'></script>
+<script type='text/javascript' src='http://guidoline.com/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+
+</body>
+</html>
