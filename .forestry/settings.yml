@@ -9,6 +9,8 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: heading
   label: Sections
 - type: directory
@@ -16,6 +18,8 @@ sections:
   label: Authors
   create: all
   match: "**/*"
+  templates:
+  - auteur
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
