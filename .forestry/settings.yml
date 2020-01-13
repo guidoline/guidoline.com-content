@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: https://api.netlify.com/build_hooks/5e1c995c83ae738773a44299
 sections:
 - type: directory
-  path: ''
+  path: "."
   label: Root
   create: all
   match: "**/*"
@@ -30,11 +30,9 @@ sections:
 - type: document
   path: settings/navigation.yml
   label: Navigation
-  match: "**/*"
 - type: document
   path: settings/theme.yml
   label: Theme
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
