@@ -41,6 +41,24 @@ title = "Exemple de section B"
 icon = ""
 target = "http://example.com"
 text = "Exemple de lien"
+[[sections]]
+alt = "Visuel de sépration"
+color = ""
+image = "/uploads/2020/01/vu4t4.jpeg"
+legend = ""
+template = "hero"
+[sections.link]
+icon = []
+target = ""
+text = ""
+[[sections]]
+content = ""
+template = "_section"
+title = ""
+[sections.link]
+icon = []
+target = ""
+text = ""
 [[sections_repetable]]
 content = "Contenu de la section A"
 icon = "download"
