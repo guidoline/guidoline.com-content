@@ -2,12 +2,13 @@
 label: Blog post
 hide_body: false
 fields:
-- type: text
-  name: title
-  label: title
-- type: datetime
-  name: date
-  label: date
-- type: file
-  name: coverImage
-  label: coverImage
+- name: couverture
+  type: include
+  config: {}
+  template: couverture
+  label: Couverture
+- name: post
+  type: include
+  config: {}
+  template: base
+  label: Post
