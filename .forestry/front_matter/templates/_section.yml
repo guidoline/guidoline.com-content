@@ -25,3 +25,5 @@ fields:
   config: {}
   template: _lien
   label: Lien
+  showOnly:
+    field: add_link
