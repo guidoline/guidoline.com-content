@@ -7,7 +7,6 @@ sections:
 - type: document
   path: test.md
   label: Test
-  match: "**/*"
 - type: document
   path: welcome.md
   label: Accueil

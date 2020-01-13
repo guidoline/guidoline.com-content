@@ -40,3 +40,5 @@ fields:
     max: 
     labelField: 
   label: Sections repetabe
+pages:
+- test.md
