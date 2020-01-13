@@ -17,3 +17,8 @@ fields:
     schema:
       format: markdown
   label: Contenu
+- name: link
+  type: include
+  config: {}
+  template: _lien
+  label: Lien
