@@ -1,7 +1,6 @@
 ---
-label: _bouton
+label: _lien
 hide_body: true
-display_field: text
 fields:
 - name: link
   type: field_group
