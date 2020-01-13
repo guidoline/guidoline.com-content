@@ -17,6 +17,9 @@ fields:
     schema:
       format: markdown
   label: Contenu
+- name: add_link
+  type: boolean
+  label: Ajouter un lien
 - name: link
   type: include
   config: {}
