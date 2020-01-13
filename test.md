@@ -1,4 +1,4 @@
-+++
+---
 author = "authors/guidoline.md"
 description = "Description de la page de test."
 published = ""
@@ -70,4 +70,4 @@ icon = ""
 target = ""
 text = ""
 
-+++
+---
