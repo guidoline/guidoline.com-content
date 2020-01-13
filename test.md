@@ -1,6 +1,6 @@
 +++
 author = "authors/guidoline.md"
-description = ""
+description = "Description de la page de test."
 published = ""
 title = "Page de test"
 [cover.cover]
