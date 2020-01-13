@@ -17,3 +17,8 @@ fields:
       required: false
     label: Texte alternatif
   label: Couverture
+- name: link
+  type: include
+  config: {}
+  template: _lien
+  label: Lien
