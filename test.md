@@ -5,7 +5,7 @@ published: '2020-01-12T23:00:00Z'
 description: Description SEO de la page d'exemple.
 cover:
   image: "/uploads/2020/01/vu4t4.jpeg"
-  alt: Image d'illustration
+  alt: Image d'illustration.
   link:
     text: Lien de couverture
     target: http://example.cm
