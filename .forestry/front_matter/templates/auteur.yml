@@ -13,5 +13,3 @@ fields:
   config:
     required: false
   label: Email
-pages:
-- authors/guidoline.md
