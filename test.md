@@ -15,7 +15,7 @@ icon = ""
 target = "http://example.com"
 template = "_section"
 text = "Exemple de lien"
-title = "Exemple de section"
+title = "Exemple de section A"
 [sections.link]
 icon = ""
 target = ""
