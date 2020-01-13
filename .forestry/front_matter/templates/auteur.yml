@@ -3,7 +3,7 @@ label: Auteur
 hide_body: true
 display_field: name
 fields:
-- name: name
+- name: title
   type: text
   config:
     required: true
