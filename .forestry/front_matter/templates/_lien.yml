@@ -21,7 +21,8 @@ fields:
     default: []
     config:
       required: false
-      options: []
+      options:
+      - download
       source:
         type: simple
         section: 
