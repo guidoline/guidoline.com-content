@@ -18,22 +18,8 @@ fields:
   template_types:
   - _section
   - hero
-  - couverture
   config:
     min: 
     max: 
-- name: sections_repetable
-  type: field_group_list
-  fields:
-  - name: section
-    type: include
-    config: {}
-    template: _section
-    label: Section
-  config:
-    min: 
-    max: 
-    labelField: title
-  label: Sections repetabe
 pages:
 - test.md
