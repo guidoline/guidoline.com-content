@@ -17,3 +17,13 @@ fields:
   config:
     min: 
     max: 
+- name: cover
+  type: field_group
+  config: {}
+  fields:
+  - name: cover
+    type: include
+    config: {}
+    template: couverture
+    label: Couverture
+  label: Couverture
