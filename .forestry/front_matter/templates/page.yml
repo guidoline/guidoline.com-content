@@ -3,11 +3,11 @@ label: Page
 hide_body: false
 display_field: title
 fields:
-- name: page
+- name: base
   type: include
   config: {}
   template: base
-  label: Page
+  label: Base
 - name: cover
   type: include
   config: {}
