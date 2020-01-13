@@ -1,6 +1,10 @@
 {
   "main": [
-
+    {
+      "name": "À propos",
+      "url": "/a-propos",
+      "highlight": false
+    }
   ],
   "footer": [
 
