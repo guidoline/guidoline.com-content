@@ -21,3 +21,8 @@ fields:
     schema:
       format: markdown
   label: Légende
+- name: link
+  type: include
+  config: {}
+  template: _lien
+  label: Lien
