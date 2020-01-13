@@ -1,4 +1,25 @@
 ---
 label: Confguration.navigation
 hide_body: true
-fields: []
+fields:
+- name: main
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: true
+    label: Nom
+  - name: url
+    type: text
+    config:
+      required: true
+    label: Cible
+  - name: highlight
+    type: boolean
+    label: Mettre en avant
+  config:
+    min: 
+    max: '3'
+    labelField: 
+  label: Principale
