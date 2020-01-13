@@ -41,18 +41,3 @@ fields:
       format: markdown
   label: Description
   description: Pour un SEO optimal, ne pas dépasser 160 caractères
-- name: groupe
-  type: field_group
-  config: {}
-  fields:
-  - name: a
-    type: text
-    config:
-      required: false
-    label: A
-  - name: b
-    type: text
-    config:
-      required: false
-    label: B
-  label: Groupe
