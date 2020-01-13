@@ -29,4 +29,17 @@ fields:
         file: 
         path: 
     label: Icone
+  - name: color
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - primary
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Couleur
   label: Lien
