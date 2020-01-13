@@ -7,3 +7,13 @@ fields:
   config: {}
   template: base
   label: Page
+- name: sections
+  type: blocks
+  label: Sections
+  template_types:
+  - _section
+  - hero
+  - couverture
+  config:
+    min: 
+    max: 
