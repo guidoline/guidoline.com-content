@@ -41,3 +41,5 @@ fields:
     max: 
     labelField: 
   label: Pied de page
+pages:
+- settings/navigation.json
