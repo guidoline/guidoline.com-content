@@ -26,3 +26,16 @@ fields:
   config: {}
   template: _lien
   label: Lien
+- name: color
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - primary
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur
