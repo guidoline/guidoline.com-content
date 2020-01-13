@@ -13,3 +13,16 @@ fields:
   config:
     required: false
   label: Cible
+- name: icon
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - download
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Icone
