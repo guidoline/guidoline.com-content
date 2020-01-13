@@ -1,7 +1,7 @@
 ---
 label: _hero
 hide_body: true
-display_field: text
+display_field: alt
 fields:
 - name: image
   type: file
