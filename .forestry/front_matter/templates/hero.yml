@@ -1,0 +1,42 @@
+---
+label: _hero
+hide_body: true
+display_field: text
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Visuel
+- name: alt
+  type: text
+  config:
+    required: false
+  label: Texte alternatif
+- name: legend
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Légende
+- name: link
+  type: include
+  config: {}
+  template: _lien
+  label: Lien
+- name: color
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - primary
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur

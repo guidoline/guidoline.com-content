@@ -1,0 +1,42 @@
+---
+label: Page
+hide_body: false
+fields:
+- name: page
+  type: include
+  config: {}
+  template: base
+  label: Page
+- name: sections
+  type: blocks
+  label: Sections
+  template_types:
+  - _section
+  - hero
+  - couverture
+  config:
+    min: 
+    max: 
+- name: cover
+  type: field_group
+  config: {}
+  fields:
+  - name: cover
+    type: include
+    config: {}
+    template: couverture
+    label: Couverture
+  label: Couverture
+- name: sections_repetable
+  type: field_group_list
+  fields:
+  - name: section
+    type: include
+    config: {}
+    template: _section
+    label: Section
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Sections repetabe

@@ -1,5 +1,5 @@
 ---
-label: Page
+label: _base
 hide_body: true
 display_field: title
 fields:

@@ -1,0 +1,8 @@
+---
+main:
+- url: "/a-proos"
+  highlight: false
+  name: À propos
+footer:
+- name: Mentions légales
+  url: mentions-legales

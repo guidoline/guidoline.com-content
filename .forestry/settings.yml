@@ -4,6 +4,9 @@ auto_deploy: false
 admin_path: ''
 webhook_url: https://api.netlify.com/build_hooks/5e1c995c83ae738773a44299
 sections:
+- type: document
+  path: welcome.md
+  label: Accueil
 - type: directory
   path: posts
   label: Blog
@@ -23,7 +26,7 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: settings/navigation.json
+  path: settings/navigation.yml
   label: Navigation
 - type: document
   path: settings/theme.yml

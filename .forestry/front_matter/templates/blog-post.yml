@@ -13,3 +13,13 @@ fields:
   config: {}
   template: couverture
   label: Couverture
+- name: related_contents
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: '3'
+    source:
+      type: pages
+      section: blog
+  label: Contenus en relation
