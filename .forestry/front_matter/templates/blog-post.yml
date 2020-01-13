@@ -2,13 +2,13 @@
 label: Blog post
 hide_body: false
 fields:
-- name: couverture
-  type: include
-  config: {}
-  template: couverture
-  label: Couverture
 - name: post
   type: include
   config: {}
   template: base
   label: Post
+- name: couverture
+  type: include
+  config: {}
+  template: couverture
+  label: Couverture
