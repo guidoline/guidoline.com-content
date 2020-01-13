@@ -27,3 +27,4 @@ fields:
   label: Lien
   showOnly:
     field: add_link
+    value: true
