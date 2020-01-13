@@ -2,6 +2,9 @@
 title: Newsletter Décembre 2019
 date: 2019-12-11
 author: authors/guidoline.md
+couverture:
+  image: "/uploads/vu4t4.jpeg"
+  alt: Carte, badge et casquette de cycliste.
 
 ---
 **Guidoline vous souhaite de joyeuses fêtes de fin d'année**
