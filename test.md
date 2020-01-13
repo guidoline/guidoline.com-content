@@ -54,7 +54,7 @@ text = ""
 [[sections]]
 content = ""
 template = "_section"
-title = ""
+title = "Exemple de section C"
 [sections.link]
 icon = []
 target = ""
