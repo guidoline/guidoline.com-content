@@ -20,6 +20,16 @@ sections:
   match: "**/*"
   templates:
   - auteur
+- type: heading
+  label: Configuration
+- type: document
+  path: settings/navigation.yml
+  label: Navigation
+  match: "**/*"
+- type: document
+  path: settings/theme.yml
+  label: Theme
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
