@@ -33,6 +33,14 @@ text = ""
 icon = ""
 target = ""
 text = ""
+[[sections]]
+content = "Contenu de la section B."
+template = "_section"
+title = "Exemple de section B"
+[sections.link]
+icon = ""
+target = "http://example.com"
+text = "Exemple de lien"
 [[sections_repetable]]
 content = "Contenu de la section A"
 icon = "download"
