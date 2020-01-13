@@ -66,6 +66,9 @@ sections:
     color: ''
   title: Exemple de section C
   content: Contenu de exemple de section C.
+groupe:
+  a: a
+  b: b
 
 ---
 Contenu principal de la page d'exemple.
