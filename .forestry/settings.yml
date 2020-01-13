@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: https://api.netlify.com/build_hooks/5e1c995c83ae738773a44299
 sections:
 - type: directory
+  path: ''
+  label: Root
+  create: all
+  match: "**/*"
+- type: directory
   path: posts
   label: Blog
   create: all
