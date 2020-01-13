@@ -8,7 +8,7 @@ fields:
   config: {}
   template: base
   label: Post
-- name: couverture
+- name: cover
   type: include
   config: {}
   template: couverture
