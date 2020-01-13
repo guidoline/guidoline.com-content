@@ -1,4 +1,19 @@
 ---
 label: Couverture
 hide_body: true
-fields: []
+fields:
+- name: couverture
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+  - name: alt
+    type: text
+    config:
+      required: false
+    label: Texte alternatif
+  label: Couverture
