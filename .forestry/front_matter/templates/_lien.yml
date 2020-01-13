@@ -1,4 +1,15 @@
 ---
-label: _lien
+label: _bouton
 hide_body: true
-fields: []
+display_field: text
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: Texte
+- name: target
+  type: text
+  config:
+    required: false
+  label: Cible
