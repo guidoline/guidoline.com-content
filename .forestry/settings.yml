@@ -9,6 +9,13 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+- type: heading
+  label: Sections
+- type: directory
+  path: authors
+  label: Authors
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
