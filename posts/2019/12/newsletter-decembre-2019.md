@@ -5,6 +5,9 @@ author: authors/guidoline.md
 couverture:
   image: "/uploads/2020/01/vu4t4.jpeg"
   alt: Carte, badge et casquette de cycliste.
+cover:
+  image: "/uploads/2020/01/vu4t4.jpeg"
+  alt: Carte, badge et casquette de cycliste.
 
 ---
 **Guidoline vous souhaite de joyeuses fêtes de fin d'année**
