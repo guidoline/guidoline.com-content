@@ -36,7 +36,7 @@ sections:
     text: ''
     target: ''
     color: ''
-  image: ''
+  image: "/uploads/2020/01/vu4t4.jpeg"
   alt: ''
   legend: ''
   color: ''
@@ -46,15 +46,15 @@ sections:
     text: ''
     target: ''
     color: ''
-  title: ''
-  content: ''
+  title: Exemple de section B
+  content: Contenu de exemple de section B.
 - template: hero
   link:
     icon: []
     text: ''
     target: ''
     color: ''
-  image: ''
+  image: "/uploads/2020/01/vu4t4.jpeg"
   alt: ''
   legend: ''
   color: ''
@@ -64,8 +64,8 @@ sections:
     text: ''
     target: ''
     color: ''
-  title: ''
-  content: ''
+  title: Exemple de section C
+  content: Contenu de exemple de section C.
 
 ---
 Contenu principal de la page d'exemple.
