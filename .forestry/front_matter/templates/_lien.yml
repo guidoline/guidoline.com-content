@@ -10,12 +10,12 @@ fields:
   - name: text
     type: text
     config:
-      required: false
+      required: true
     label: Texte
   - name: target
     type: text
     config:
-      required: false
+      required: true
     label: Cible
   - name: icon
     type: select
