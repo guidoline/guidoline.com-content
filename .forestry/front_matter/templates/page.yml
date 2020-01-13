@@ -27,3 +27,16 @@ fields:
     template: couverture
     label: Couverture
   label: Couverture
+- name: sections_repetable
+  type: field_group_list
+  fields:
+  - name: section
+    type: include
+    config: {}
+    template: _section
+    label: Section
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Sections repetabe
