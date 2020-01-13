@@ -1,6 +1,6 @@
 ---
 title: Exemple de page
-author: ''
+author: authors/guidoline.md
 published: ''
 description: ''
 cover:
