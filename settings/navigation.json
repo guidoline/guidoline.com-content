@@ -7,6 +7,9 @@
     }
   ],
   "footer": [
-
+    {
+      "name": "Mentions légales",
+      "url": "/mentions-legales"
+    }
   ]
 }
