@@ -7,7 +7,6 @@ sections:
 - type: document
   path: welcome.md
   label: Accueil
-  match: "**/*"
 - type: directory
   path: posts
   label: Blog
