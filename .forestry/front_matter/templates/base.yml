@@ -11,7 +11,7 @@ fields:
   description: Pour SEO optimal, ne pas dépasser 70 caractères.
 - name: author
   type: select
-  default: []
+  default: authors/guidoline.md
   config:
     required: false
     options: []
