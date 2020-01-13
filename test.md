@@ -33,11 +33,6 @@ text = ""
 icon = ""
 target = ""
 text = ""
-[[sections]]
-template = "couverture"
-[sections.cover]
-alt = ""
-image = ""
 [[sections_repetable]]
 content = "Contenu de la section A"
 icon = "download"
