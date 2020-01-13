@@ -3,26 +3,30 @@ label: _bouton
 hide_body: true
 display_field: text
 fields:
-- name: text
-  type: text
-  config:
-    required: false
-  label: Texte
-- name: target
-  type: text
-  config:
-    required: false
-  label: Cible
-- name: icon
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - download
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Icone
+- name: link
+  type: field_group
+  config: {}
+  fields:
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Texte
+  - name: target
+    type: text
+    config:
+      required: false
+    label: Cible
+  - name: icon
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Icone
+  label: Lien
