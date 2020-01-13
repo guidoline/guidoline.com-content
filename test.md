@@ -9,7 +9,7 @@ cover:
   link:
     text: Lien de couverture
     target: http://example.cm
-    icon: ''
+    icon: download
     color: primary
 sections:
 - template: hero
