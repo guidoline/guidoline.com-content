@@ -2,7 +2,7 @@
 label: _couverture
 hide_body: true
 fields:
-- name: couverture
+- name: cover
   type: field_group
   config: {}
   fields:
