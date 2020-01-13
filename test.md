@@ -24,12 +24,12 @@ sections:
   color: ''
 - template: _section
   link:
-    icon: []
-    text: ''
-    target: ''
+    icon: ''
+    text: Lien de section
+    target: http://example.com
     color: ''
-  title: ''
-  content: ''
+  title: Exemple de section A
+  content: Contenu de exemple de section A.
 - template: hero
   link:
     icon: []
