@@ -23,3 +23,21 @@ fields:
     max: '3'
     labelField: 
   label: Principale
+- name: footer
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: true
+    label: Nom
+  - name: url
+    type: text
+    config:
+      required: true
+    label: Cible
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Pied de page
