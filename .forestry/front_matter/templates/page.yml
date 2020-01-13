@@ -7,6 +7,11 @@ fields:
   config: {}
   template: base
   label: Page
+- name: cover
+  type: include
+  config: {}
+  template: couverture
+  label: Couverture
 - name: sections
   type: blocks
   label: Sections
@@ -17,16 +22,6 @@ fields:
   config:
     min: 
     max: 
-- name: cover
-  type: field_group
-  config: {}
-  fields:
-  - name: cover
-    type: include
-    config: {}
-    template: couverture
-    label: Couverture
-  label: Couverture
 - name: sections_repetable
   type: field_group_list
   fields:
