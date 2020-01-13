@@ -21,7 +21,7 @@ icon = ""
 target = ""
 text = ""
 [[sections]]
-alt = ""
+alt = "Visuel de séparation"
 color = ""
 icon = []
 image = ""
