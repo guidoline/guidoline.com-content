@@ -28,7 +28,7 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: settings/navigation.yml
+  path: settings/navigation.json
   label: Navigation
 - type: document
   path: settings/theme.yml
