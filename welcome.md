@@ -12,7 +12,15 @@ cover:
     target: http://example.com
     icon: download
     color: primary
-sections: []
+sections:
+- template: _section
+  title: Exemple de section
+  content: Contenu de exemple de section.
+  link:
+    text: Lien de section
+    target: http://example.com
+    icon: ''
+    color: ''
 
 ---
 Page d'accueil.
