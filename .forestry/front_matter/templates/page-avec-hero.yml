@@ -12,3 +12,5 @@ fields:
   config: {}
   template: hero
   label: Hero
+pages:
+- welcome.md
