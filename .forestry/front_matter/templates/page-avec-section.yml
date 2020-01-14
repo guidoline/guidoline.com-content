@@ -1,6 +1,7 @@
 ---
-label: Page avec section
+label: Page avec sections
 hide_body: false
+display_field: title
 fields:
 - name: base
   type: include
@@ -13,7 +14,11 @@ fields:
   template: couverture
   label: Couverture
 - name: sections
-  type: include
-  config: {}
-  template: _section
+  type: blocks
   label: Sections
+  template_types:
+  - _section
+  - hero
+  config:
+    min: 
+    max: 
