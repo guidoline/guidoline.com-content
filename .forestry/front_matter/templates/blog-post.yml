@@ -3,11 +3,11 @@ label: Blog post
 hide_body: false
 display_field: title
 fields:
-- name: post
+- name: base
   type: include
   config: {}
   template: base
-  label: Post
+  label: Base
 - name: cover
   type: include
   config: {}
