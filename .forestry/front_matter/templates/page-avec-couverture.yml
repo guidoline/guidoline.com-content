@@ -12,3 +12,5 @@ fields:
   config: {}
   template: couverture
   label: Couverture
+pages:
+- a-propos.md
