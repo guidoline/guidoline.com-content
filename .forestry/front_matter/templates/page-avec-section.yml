@@ -13,7 +13,7 @@ fields:
   label: Sections
   template_types:
   - _section
-  - hero
+  - couverture
   config:
     min: 
     max: 
