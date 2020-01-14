@@ -13,14 +13,5 @@ fields:
   config: {}
   template: couverture
   label: Couverture
-- name: sections
-  type: blocks
-  label: Sections
-  template_types:
-  - _section
-  - hero
-  config:
-    min: 
-    max: 
 pages:
 - test.md
