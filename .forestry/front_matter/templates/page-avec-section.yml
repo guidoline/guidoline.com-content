@@ -17,3 +17,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- a-propos.md

@@ -5,11 +5,14 @@ admin_path: ''
 webhook_url: https://api.netlify.com/build_hooks/5e1c995c83ae738773a44299
 sections:
 - type: document
-  path: test.md
-  label: Test
-- type: document
   path: welcome.md
   label: Accueil
+- type: document
+  path: a-propos.md
+  label: À propos
+- type: document
+  path: test.md
+  label: Test
 - type: directory
   path: posts
   label: Blog
