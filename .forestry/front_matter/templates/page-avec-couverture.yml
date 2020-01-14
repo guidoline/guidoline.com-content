@@ -1,4 +1,14 @@
 ---
 label: Page avec couverture
 hide_body: false
-fields: []
+fields:
+- name: base
+  type: include
+  config: {}
+  template: base
+  label: Base
+- name: cover
+  type: include
+  config: {}
+  template: couverture
+  label: Couverture
