@@ -1,4 +1,23 @@
 ---
 label: Page avec hero
 hide_body: false
-fields: []
+fields:
+- name: base
+  type: include
+  config: {}
+  template: base
+  label: Base
+- name: hero
+  type: include
+  config: {}
+  template: hero
+  label: Hero
+- name: sections
+  type: blocks
+  label: Sections
+  template_types:
+  - _section
+  - hero
+  config:
+    min: 
+    max: 
