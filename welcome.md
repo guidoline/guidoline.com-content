@@ -6,6 +6,12 @@ description: ''
 cover:
   image: ''
   alt: ''
+  legend: ''
+  link:
+    text: ''
+    target: ''
+    icon: ''
+    color: ''
 sections: []
 image: ''
 alt: ''
