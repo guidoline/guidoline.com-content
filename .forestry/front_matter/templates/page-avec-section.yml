@@ -3,16 +3,11 @@ label: Page avec sections
 hide_body: false
 display_field: title
 fields:
-- name: base
+- name: page
   type: include
   config: {}
-  template: base
-  label: Base
-- name: cover
-  type: include
-  config: {}
-  template: couverture
-  label: Couverture
+  template: page
+  label: Page
 - name: sections
   type: blocks
   label: Sections
