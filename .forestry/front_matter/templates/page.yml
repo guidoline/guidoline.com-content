@@ -8,11 +8,6 @@ fields:
   config: {}
   template: base
   label: Base
-- name: cover
-  type: include
-  config: {}
-  template: couverture
-  label: Couverture
 pages:
 - mentions-legales.md
 - test.md
