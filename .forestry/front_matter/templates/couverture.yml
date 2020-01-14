@@ -16,4 +16,18 @@ fields:
     config:
       required: false
     label: Texte alternatif
+  - name: legend
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Légende
+  - name: link
+    type: include
+    config: {}
+    template: _lien
+    label: Lien
   label: Couverture
