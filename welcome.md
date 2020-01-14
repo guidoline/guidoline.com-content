@@ -13,6 +13,16 @@ cover:
     icon: download
     color: primary
 sections:
+- template: couverture
+  cover:
+    link:
+      icon: []
+      color: []
+      text: ''
+      target: ''
+    src: "/uploads/2020/01/vu4t4.jpeg"
+    legend: Visuel de séparation
+    alt: ''
 - template: _section
   title: Exemple de section
   content: Contenu de exemple de section.
