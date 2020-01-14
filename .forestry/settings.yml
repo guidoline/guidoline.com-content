@@ -7,7 +7,6 @@ sections:
 - type: document
   path: a-propos.md
   label: À propos
-  match: "**/*"
 - type: document
   path: test.md
   label: Test
