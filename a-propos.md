@@ -19,7 +19,9 @@ description: ''
 
 **Guidoline** est né en **2010** de trois passionnés de vélo autour d’une même envie : **mettre Rouen en selle**.
 
-![Façade de Guidoline](/uploads/2020/01/guidoline-facade.jpg)Aujourd’hui l’association fédère plus de **5000 adhérents** à travers un [atelier de bicyclette](http://www.guidoline.com/#atelier-de-bicyclette "Atelier de bicyclette") qui permet d’apprendre librement les finesses de la mécanique, des [animations](http://www.guidoline.com/#animations) qui font goûter allègrement à de nouvelles saveurs cyclistes et un espace café qui provoque les rencontres d’entre-gens. **Tout est prétexte à échanger et partager sur le thème du vélo.**
+![](uploads/2020/01/guidoline-facade.jpg)
+
+Aujourd’hui l’association fédère plus de **5000 adhérents** à travers un [atelier de bicyclette](http://www.guidoline.com/#atelier-de-bicyclette "Atelier de bicyclette") qui permet d’apprendre librement les finesses de la mécanique, des [animations](http://www.guidoline.com/#animations) qui font goûter allègrement à de nouvelles saveurs cyclistes et un espace café qui provoque les rencontres d’entre-gens. **Tout est prétexte à échanger et partager sur le thème du vélo.**
 
 ![Entrée de Guidoline](/uploads/2020/01/guidoline-entree.jpg)
 
