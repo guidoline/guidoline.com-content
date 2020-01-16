@@ -13,6 +13,17 @@ cover:
     icon: download
     color: primary
 sections:
+- template: _section
+  title: Atelier de bicyclette
+  content: |-
+    Mise à disposition d’outils, aide et conseils en mécanique cycle, vente de vélos et pièces détachées
+
+    _Mardi, mercredi, vendredi et samedi : 14h00 à 19h00_
+  link:
+    text: En savoir plus sur l'atelier
+    target: "/a-propos#atelier"
+    icon: ''
+    color: ''
 - template: couverture
   cover:
     link:
@@ -23,14 +34,6 @@ sections:
     src: "/uploads/2020/01/vu4t4.jpeg"
     legend: Visuel de séparation
     alt: ''
-- template: _section
-  title: Exemple de section
-  content: Contenu de exemple de section.
-  link:
-    text: Lien de section
-    target: http://example.com
-    icon: ''
-    color: ''
 
 ---
 Page d'accueil.
