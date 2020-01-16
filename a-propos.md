@@ -10,6 +10,7 @@ cover:
     target: ''
     icon: ''
     color: ''
+  src: "/uploads/2020/01/vu4t4.jpeg"
 author: ''
 published: ''
 description: ''
