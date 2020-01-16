@@ -16,6 +16,11 @@ fields:
     schema:
       format: markdown
   label: Description
+- name: url
+  type: text
+  config:
+    required: false
+  label: URL
 - name: credits
   type: textarea
   default: ''
