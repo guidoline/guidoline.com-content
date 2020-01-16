@@ -1,6 +1,6 @@
 ---
 main:
-- url: "/a-proos"
+- url: "/a-propos"
   highlight: false
   name: À propos
 footer:
