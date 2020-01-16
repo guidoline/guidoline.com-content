@@ -24,16 +24,20 @@ sections:
     target: "/a-propos#atelier"
     icon: ''
     color: ''
-- template: couverture
-  cover:
-    link:
-      icon: []
-      color: []
-      text: ''
-      target: ''
-    src: "/uploads/2020/01/vu4t4.jpeg"
-    legend: Visuel de séparation
-    alt: ''
+- template: _section
+  link:
+    icon: []
+    color: []
+    text: ''
+    target: ''
+  content: |-
+    * Espace convivial d’échange
+    * Café, thé, bières, sodas, …
+    * Programmation culturelle
+    * Bibliothèque spécialisée
+
+    _Mardi, mercredi, vendredi et samedi : 14h00 à 19h00_
+  title: Bar / café
 
 ---
 Page d'accueil.
