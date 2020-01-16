@@ -2,7 +2,7 @@
 title: À propos
 sections: []
 cover:
-  image: ''
+  src: ''
   alt: ''
   legend: ''
   link:
