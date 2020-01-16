@@ -15,9 +15,25 @@ published: ''
 description: ''
 
 ---
+# À propos de Guidoline
+
+**Guidoline** est né en **2010** de trois passionnés de vélo autour d’une même envie : **mettre Rouen en selle**.
+
+![Façade de Guidoline](/uploads/2020/01/guidoline-facade.jpg)Aujourd’hui l’association fédère plus de **5000 adhérents** à travers un [atelier de bicyclette](http://www.guidoline.com/#atelier-de-bicyclette "Atelier de bicyclette") qui permet d’apprendre librement les finesses de la mécanique, des [animations](http://www.guidoline.com/#animations) qui font goûter allègrement à de nouvelles saveurs cyclistes et un espace café qui provoque les rencontres d’entre-gens. **Tout est prétexte à échanger et partager sur le thème du vélo.**
+
+![Entrée de Guidoline](/uploads/2020/01/guidoline-entree.jpg)
+
+Membre de l’[ADRESS](http://adress-hn.org/ "ADRESS Agence pour le développement des entreprises sociales et solidaires en Haute-Normandie"), agence pour le développement de l’ESS en Haute-normandie, Guidoline repose sur les **valeurs de l’Economie Sociale et Solidaire** avec cette ambition d’**entreprendre autrement** autour d’un projet économique au service de l’utilité sociale, une mise en œuvre éthique et une dynamique de développement fondée sur un ancrage territorial et une mobilisation citoyenne qui participe au débat sociétal et révèle une alternative.
+
+Guidoline appartient également au réseau national des ateliers vélos [Heureux-Cyclage](http://www.heureux-cyclage.org/ "Réseau national des ateliers vélos solidaires").
+
 ## L'atelier
 
+Informations sur l'atelier.
+
 ## Participer
+
+Comment rejoindre l'équipe de bénévole. 
 
 ## Animations
 
