@@ -10,7 +10,7 @@ cover:
     target: ''
     icon: ''
     color: ''
-author: ''
+author: authors/guidoline.md
 published: ''
 description: ''
 
