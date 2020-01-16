@@ -10,7 +10,7 @@ fields:
 - name: cover
   type: include
   config: {}
-  template: couverture
+  template: configuration-theme
   label: Couverture
 pages:
 - a-propos.md
