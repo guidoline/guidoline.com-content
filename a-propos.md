@@ -40,15 +40,15 @@ Informations sur l'atelier.
 
 **Peu importe mon profil, je trouverai toujours un rôle qui me convient en fonction de ma personnalité, de mes compétences et de mon temps libre**.
 
-#### Atelier
+### Atelier
 
 **Accueillir les adhérents**, les **aider dans leur réparation**, remonter des vélos, trier des pièces, répondre au téléphone, organiser les ateliers, …
 
-#### Animations
+### Animations
 
 **Une idée d’évènement, de soirée, d’atelier ?** Envie de **participer à l’organisation** ou encore animer en étant présent le jour J !
 
-#### Administration
+### Administration
 
 Envie de **partager vos compétences syntaxiques, linguistiques** au service de la communication, de la rédaction de dossier. Et pourquoi pas s’impliquer au plus haut niveau niveau en participant aux prises de décision en tant que **membre du conseil d’administration**.
 
