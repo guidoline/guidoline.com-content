@@ -15,6 +15,10 @@ published: ''
 description: ''
 
 ---
+## L'atelier
+
+## Participer
+
 ## Animations
 
 Guidoline **organise et participe régulièrement à des manifestations** pour donner son regard sur la **culture vélo**.
