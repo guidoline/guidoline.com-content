@@ -33,7 +33,28 @@ Informations sur l'atelier.
 
 ## Participer
 
-Comment rejoindre l'équipe de bénévole. 
+![Équipe de bénévole](/uploads/2020/01/equipe-guidoline.jpg)
+
+Être bénévole, c’est donner de son temps libre à l’association, c’est développer ses compétences et partager de bons moments.  
+**C’est surtout ça : du plaisir.**
+
+**Peu importe mon profil, je trouverai toujours un rôle qui me convient en fonction de ma personnalité, de mes compétences et de mon temps libre**.
+
+#### Atelier
+
+**Accueillir les adhérents**, les **aider dans leur réparation**, remonter des vélos, trier des pièces, répondre au téléphone, organiser les ateliers, …
+
+#### Animations
+
+**Une idée d’évènement, de soirée, d’atelier ?** Envie de **participer à l’organisation** ou encore animer en étant présent le jour J !
+
+#### Administration
+
+Envie de **partager vos compétences syntaxiques, linguistiques** au service de la communication, de la rédaction de dossier. Et pourquoi pas s’impliquer au plus haut niveau niveau en participant aux prises de décision en tant que **membre du conseil d’administration**.
+
+**N’hésitez pas à vous en mêler !**
+
+Pour savoir quand et comment nous aider vous pouvez [nous contacter par mail](http://www.guidoline.com/#contactez-nous), passez voir notre chef d’atelier à l’accueil ou encore vous inscrire directement dans le [planning des bénévoles en ligne.](https://docs.google.com/spreadsheets/d/1Z1kV0_uN6tA4s-LIa7xo6HHJ4F-gPov8aCd1K6us-UY/edit?usp=sharing)
 
 ## Animations
 
