@@ -38,6 +38,22 @@ sections:
 
     _Mardi, mercredi, vendredi et samedi : 14h00 à 19h00_
   title: Bar / café
+- template: _section
+  title: Animation / prestations
+  content: |-
+    Guidoline [**organise et participe régulièrement à des manifestations**](/blog/animations) pour donner son regard sur la **culture vélo**.
+
+    * Atelier mobile
+    * Roller racing
+    * Balade et course vélo
+    * PDE _(Plan Déplacement Entreprise)_
+
+    N'hésitez pas à [nous contacter pour mettre en place vos actions](/a-propos#prestations).
+  link:
+    text: ''
+    target: ''
+    icon: ''
+    color: ''
 
 ---
 Page d'accueil.
