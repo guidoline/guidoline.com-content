@@ -7,8 +7,8 @@ cover:
     color: []
     text: ''
     target: ''
-  src: ''
-  alt: ''
+  src: uploads/2020/01/match-de-bike-polo.jpg
+  alt: Matche de Bike polo
   legend: ''
 tags:
 - Bike polo
