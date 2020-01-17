@@ -31,8 +31,8 @@ fields:
     options: []
     source:
       type: documents
-      section: ''
-      file: welcome.md
+      section: theme
+      file: settings/theme.yml
       path: ''
   label: Catégorie
 - name: tags
