@@ -29,8 +29,8 @@ fields:
     required: false
     date_format: DD/MM/YYYY
     time_format: hh:mm
-    display_utc: true
-    export_format: 'MM/DD/YYYY hh:mm '
+    display_utc: false
+    export_format: ''
   default: now
 - name: description
   type: textarea
