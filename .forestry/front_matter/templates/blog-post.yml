@@ -23,3 +23,39 @@ fields:
       type: pages
       section: blog
   label: Contenus en relation
+- name: category
+  type: select
+  default: ''
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: ''
+      file: welcome.md
+      path: ''
+  label: Catégorie
+- name: tags
+  type: tag_list
+  default: []
+  label: Étiquettes
+- name: event
+  type: field_group
+  config: {}
+  fields:
+  - name: date_start
+    type: datetime
+    label: Date de début
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+    default: ''
+  - name: location
+    type: text
+    config:
+      required: false
+    label: Localisation
+  label: Évenement
