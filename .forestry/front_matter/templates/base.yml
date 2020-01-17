@@ -21,7 +21,7 @@ fields:
       file: 
       path: 
   label: Auteur
-- name: published
+- name: date
   type: datetime
   label: Date de publication
   description: ''
@@ -30,6 +30,7 @@ fields:
     date_format: DD/MM/YYYY
     time_format: h:mm
     display_utc: false
+    export_format: 'MM/DD/YYYY hh:mm '
   default: now
 - name: description
   type: textarea
