@@ -30,3 +30,7 @@ fields:
     schema:
       format: markdown
   label: Crédits
+- name: categories
+  type: tag_list
+  default: []
+  label: Catégories
