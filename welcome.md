@@ -41,8 +41,6 @@ sections:
 - template: _section
   title: Animation / prestations
   content: |-
-    ![](uploads/2020/01/picto-velo.png)
-
     Guidoline [**organise et participe régulièrement à des manifestations**](/blog/animations) pour donner son regard sur la **culture vélo**.
 
     * Atelier mobile
