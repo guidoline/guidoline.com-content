@@ -16,7 +16,7 @@ sections:
 - template: _section
   title: Atelier de bicyclette
   content: |-
-    ![](uploads/2020/01/picto-logo.png)
+    ![](uploads/2020/01/picto-velo.png)
 
     Mise à disposition d’outils, aide et conseils en mécanique cycle, vente de vélos et pièces détachées
 
