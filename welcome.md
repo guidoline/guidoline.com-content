@@ -31,8 +31,6 @@ sections:
     text: ''
     target: ''
   content: |-
-    ![](uploads/2020/01/picto-tasse.png)
-
     * Espace convivial d’échange
     * Café, thé, bières, sodas, …
     * Programmation culturelle
