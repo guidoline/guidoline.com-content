@@ -63,4 +63,6 @@ sections:
 date: ''
 
 ---
+![](uploads/2020/01/equipe-guidoline.jpg)
+
 Page d'accueil.
