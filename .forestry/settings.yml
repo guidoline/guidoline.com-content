@@ -41,7 +41,7 @@ sections:
   path: settings/theme.yml
   label: Theme
 upload_dir: uploads
-public_path: uploads
+public_path: "/content/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:filename:"
