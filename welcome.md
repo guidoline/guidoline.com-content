@@ -16,6 +16,8 @@ sections:
 - template: _section
   title: Atelier de bicyclette
   content: |-
+    ![](uploads/2020/01/picto-logo.png)
+
     Mise à disposition d’outils, aide et conseils en mécanique cycle, vente de vélos et pièces détachées
 
     _Mardi, mercredi, vendredi et samedi : 14h00 à 19h00_
@@ -54,6 +56,7 @@ sections:
     target: ''
     icon: ''
     color: ''
+date: ''
 
 ---
 Page d'accueil.
