@@ -7,10 +7,10 @@ fields:
   config: {}
   template: base
   label: Base
-- name: cover
+- name: hero
   type: include
   config: {}
-  template: couverture
-  label: Couverture
+  template: _hero
+  label: Hero
 pages:
 - a-propos.md
