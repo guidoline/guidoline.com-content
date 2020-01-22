@@ -26,3 +26,24 @@ fields:
         format: markdown
     label: Légende
   label: Couverture
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+- name: alt
+  type: text
+  config:
+    required: false
+  label: Texte alternatif
+- name: legend
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Légende
+  description: Texte associé à l'image, pour,  par exemple indiqué l'auteur du visuel.
+    Lemarquage Markdown est accépté.
