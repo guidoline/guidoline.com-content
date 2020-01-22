@@ -9,9 +9,14 @@ fields:
   template: base
   label: Base
 - name: cover
-  type: include
+  type: field_group
   config: {}
-  template: couverture
+  fields:
+  - name: cover
+    type: include
+    config: {}
+    template: couverture
+    label: Couverture
   label: Couverture
 - name: related_contents
   type: list
