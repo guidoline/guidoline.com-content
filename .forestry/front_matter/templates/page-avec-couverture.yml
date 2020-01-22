@@ -1,5 +1,5 @@
 ---
-label: Page avec couverture
+label: Page avec hero
 hide_body: false
 fields:
 - name: base
