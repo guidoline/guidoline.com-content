@@ -43,3 +43,27 @@ fields:
         path: 
     label: Couleur
   label: Lien
+- name: text
+  type: text
+  config:
+    required: false
+    max: '44'
+  label: Texte
+- name: href
+  type: text
+  config:
+    required: false
+  label: Cible
+- name: icon
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - download
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Icone
