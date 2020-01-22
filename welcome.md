@@ -59,4 +59,4 @@ date: ''
 ---
 ![](/uploads/2020/01/equipe-guidoline.jpg)
 
-Page d'accueil.
+Description / résumé principal de Guidoline \[500 carac. maxi.\] 
