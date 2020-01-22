@@ -8,8 +8,9 @@ cover:
     text: ''
     target: ''
   src: uploads/2020/01/match-de-bike-polo.jpg
-  alt: Matche de Bike polo
+  alt: Match de Bike polo
   legend: ''
+  image: "/uploads/2020/01/match-de-bike-polo.jpg"
 tags:
 - Bike polo
 - Sportif
