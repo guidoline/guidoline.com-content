@@ -6,9 +6,9 @@ description: Description de la page.
 cover:
   src: "/uploads/2020/01/vu4t4.jpeg"
   alt: Carte, badges et casquette de cycliste.
-  legend: Une nouvelle année
+  legend: Exemple d'image de couverture.
   link:
-    text: Exemple de lien
+    text: Exemple de liend'appel à l'action
     target: http://example.com
     icon: download
     color: primary
