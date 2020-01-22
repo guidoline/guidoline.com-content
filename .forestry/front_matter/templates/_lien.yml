@@ -2,47 +2,6 @@
 label: _lien
 hide_body: true
 fields:
-- name: link
-  type: field_group
-  config: {}
-  fields:
-  - name: text
-    type: text
-    config:
-      required: false
-    label: Texte
-  - name: target
-    type: text
-    config:
-      required: false
-    label: Cible
-  - name: icon
-    type: select
-    default: []
-    config:
-      required: false
-      options:
-      - download
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
-    label: Icone
-  - name: color
-    type: select
-    default: []
-    config:
-      required: false
-      options:
-      - primary
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
-    label: Couleur
-  label: Lien
 - name: text
   type: text
   config:
@@ -67,3 +26,17 @@ fields:
       file: 
       path: 
   label: Icone
+- name: color
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - primary
+    - secondary
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur
