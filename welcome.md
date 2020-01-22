@@ -6,7 +6,7 @@ description: Description de la page.
 cover:
   src: "/uploads/2020/01/vu4t4.jpeg"
   alt: Carte, badges et casquette de cycliste.
-  legend: Exemple d'image de couverture.
+  legend: Exemple de description en image de de couverture [250 signes maximum].
   link:
     text: Exemple de liend'appel à l'action
     target: http://example.com
