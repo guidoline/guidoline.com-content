@@ -8,15 +8,6 @@ fields:
   config: {}
   template: page
   label: Page
-- name: sections
-  type: blocks
-  label: Sections
-  template_types:
-  - _section
-  - couverture
-  config:
-    min: 
-    max: 
 - name: hero
   type: field_group
   config: {}
@@ -27,5 +18,14 @@ fields:
     template: _hero
     label: Hero
   label: Hero
+- name: sections
+  type: blocks
+  label: Sections
+  template_types:
+  - _section
+  - couverture
+  config:
+    min: 
+    max: 
 pages:
 - welcome.md
