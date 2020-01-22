@@ -7,3 +7,8 @@ fields:
   config: {}
   template: couverture
   label: Couverture
+- name: link
+  type: include
+  config: {}
+  template: _lien
+  label: Lien
