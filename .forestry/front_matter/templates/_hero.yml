@@ -1,4 +1,9 @@
 ---
 label: _hero
 hide_body: true
-fields: []
+fields:
+- name: cover
+  type: include
+  config: {}
+  template: couverture
+  label: Couverture
