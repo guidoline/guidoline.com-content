@@ -8,11 +8,11 @@ fields:
   config: {}
   template: page
   label: Page
-- name: cover
+- name: hero
   type: include
   config: {}
-  template: couverture
-  label: Couverture
+  template: _hero
+  label: Hero
 - name: sections
   type: blocks
   label: Sections
