@@ -8,9 +8,14 @@ fields:
   template: base
   label: Base
 - name: hero
-  type: include
+  type: field_group
   config: {}
-  template: _hero
+  fields:
+  - name: hero
+    type: include
+    config: {}
+    template: _hero
+    label: Hero
   label: Hero
 pages:
 - a-propos.md
