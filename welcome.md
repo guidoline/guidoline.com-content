@@ -24,6 +24,10 @@ sections:
     target: "/a-propos#atelier"
     icon: ''
     color: ''
+  text: ''
+  href: ''
+  icon: ''
+  color: ''
 - template: _section
   link:
     icon: []
@@ -38,6 +42,10 @@ sections:
 
     _Mardi, mercredi, vendredi et samedi : 14h00 à 19h00_
   title: Bar / café
+  text: ''
+  href: ''
+  icon: ''
+  color: ''
 - template: _section
   title: Animation / prestations
   content: |-
@@ -54,7 +62,19 @@ sections:
     target: ''
     icon: ''
     color: ''
+  text: ''
+  href: ''
+  icon: ''
+  color: ''
 date: ''
+hero:
+  image: "/uploads/2020/01/vu4t4.jpeg"
+  alt: ''
+  legend: ''
+  text: ''
+  href: ''
+  icon: ''
+  color: ''
 
 ---
 ![](/uploads/2020/01/equipe-guidoline.jpg)
