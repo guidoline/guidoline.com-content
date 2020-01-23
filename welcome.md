@@ -75,6 +75,7 @@ hero:
   href: ''
   icon: ''
   color: ''
+  src: "/uploads/2020/01/vu4t4.jpeg"
 
 ---
 ![](/uploads/2020/01/equipe-guidoline.jpg)
