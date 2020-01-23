@@ -4,9 +4,14 @@ hide_body: false
 display_field: title
 fields:
 - name: base
-  type: include
+  type: field_group
   config: {}
-  template: base
+  fields:
+  - name: base
+    type: include
+    config: {}
+    template: base
+    label: Base
   label: Base
 - name: cover
   type: field_group
