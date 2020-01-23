@@ -4,9 +4,14 @@ hide_body: false
 display_field: title
 fields:
 - name: base
-  type: include
+  type: field_group
   config: {}
-  template: base
+  fields:
+  - name: base
+    type: include
+    config: {}
+    template: base
+    label: Base
   label: Base
 - name: cover
   type: field_group
@@ -18,16 +23,6 @@ fields:
     template: couverture
     label: Couverture
   label: Couverture
-- name: related_contents
-  type: list
-  config:
-    use_select: true
-    min: 
-    max: '3'
-    source:
-      type: pages
-      section: blog
-  label: Contenus en relation
 - name: category
   type: select
   default: ''
@@ -44,23 +39,13 @@ fields:
   type: tag_list
   default: []
   label: Étiquettes
-- name: event
-  type: field_group
-  config: {}
-  fields:
-  - name: date_start
-    type: datetime
-    label: Date de début
-    description: ''
-    config:
-      required: false
-      date_format: 
-      time_format: 
-      display_utc: false
-    default: ''
-  - name: location
-    type: text
-    config:
-      required: false
-    label: Localisation
-  label: Évenement
+- name: related_contents
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: '3'
+    source:
+      type: pages
+      section: blog
+  label: Contenus en relation
