@@ -8,7 +8,7 @@ cover:
     text: ''
     target: ''
   src: uploads/2020/01/match-de-bike-polo.jpg
-  alt: Match de Bike polo
+  alt: Match de Bike polo.
   legend: Photo par @exemple 2018
   image: "/uploads/2020/01/match-de-bike-polo.jpg"
 tags:
