@@ -7,7 +7,7 @@ cover:
     color: []
     text: ''
     target: ''
-  src: "/uploads/2020/01/vu4t4.jpeg"
+  src: "/uploads/2020/01/match-de-bike-polo.jpg"
   alt: Match de Bike polo.
   legend: Photo par @exemple 2018
   image: "/uploads/2020/01/vu4t4.jpeg"
