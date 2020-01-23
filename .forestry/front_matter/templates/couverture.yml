@@ -2,7 +2,7 @@
 label: _couverture
 hide_body: true
 fields:
-- name: image
+- name: src
   type: file
   config:
     maxSize: 250
