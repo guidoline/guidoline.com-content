@@ -10,7 +10,6 @@ cover:
   src: "/uploads/2020/01/vu4t4.jpeg"
   alt: Match de Bike polo.
   legend: Photo par @exemple 2018
-  image: "/uploads/2020/01/vu4t4.jpeg"
 tags:
 - Bike polo
 - Sportif

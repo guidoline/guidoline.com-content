@@ -3,7 +3,7 @@ title: Newsletter Décembre 2019
 date: 2019-12-11
 author: authors/guidoline.md
 cover:
-  image: "/uploads/2020/01/vu4t4.jpeg"
+  src: "/uploads/2020/01/vu4t4.jpeg"
   alt: Carte, badge et casquette de cycliste.
 
 ---
