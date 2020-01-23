@@ -1,10 +1,5 @@
 ---
 title: Nocturne Bike Polo 2020
-base:
-  author: authors/guidoline.md
-  date: 2020/01/22 09:00
-  description: Session Bike Polo nocturne de la rentrée 2020.
-  title: Nocturne Bike Polo
 cover:
   src: "/uploads/2020/01/match-de-bike-polo.jpg"
   alt: Match de Bike Polo
