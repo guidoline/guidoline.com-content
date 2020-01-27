@@ -13,7 +13,6 @@ cover:
   alt: Adhérent de guidoline avec son vélo.
   legend: Photo par ©guidoline 2020
 category: Évenements
-related_contents: []
 
 ---
 Notre deuxième soirée vous propose de venir vous faire tirer le portrait avec votre vélo. Depuis sa création, de nombreux couples personnes- machines ont passés la porte de l’atelier, ils forment un duo cyclocycliste unique, que nous aimerions immortaliser.

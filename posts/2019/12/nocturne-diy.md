@@ -11,11 +11,10 @@ cover:
   alt: Produits Guidoline conçus par les adhérents
   legend: Photo par © Guidoline 2020
 category: Évenements
-related_contents: []
 
 ---
-Le **12 décembre 2020 de 18h00 à 22h00**  
+Le **12 décembre 2020 de 18h00 à 22h00**
 À **Guidoline, 36 rue Molière à Rouen**
 
-Un atelier DIY de plus avant la trêve des confiseurs !  
+Un atelier DIY de plus avant la trêve des confiseurs !
 Retrouvons-nous à l'atelier rue Molière pour la traditionnelle fabrication de ceintures en pneus. Nous aurons aussi l'occasion d'imprimer des tote bags en sérigraphie.
