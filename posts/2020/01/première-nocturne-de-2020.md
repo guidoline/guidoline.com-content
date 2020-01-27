@@ -11,7 +11,12 @@ cover:
   alt: Adhérents et bénévoles en atelier plein air
   legend: Photo par © Guidoline 2020
 category: Évenements
-related_contents: []
+related_contents:
+- posts/2010/08/atelier-des-velos-paris.md
+- posts/2013/06/armada-2013-parking-atelier-velo.md
+- posts/2016/12/appel-a-idees.md
+related_post: posts/2010/11/bff-2010-paris.md
+related_event: posts/2011/04/bourse-aux-velos-paris-4.md
 
 ---
 Le _9 janvier 2020 de 18h00 à 22h00_  
