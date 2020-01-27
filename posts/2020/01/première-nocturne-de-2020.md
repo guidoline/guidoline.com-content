@@ -9,9 +9,9 @@ description: |-
 
   Nous ouvrons le bal des nocturnes avec un pot de la nouvelle année.
 cover:
-  src: ''
-  alt: ''
-  legend: ''
+  src: "/uploads/2020/01/82335359_10157086351243693_7795312384645529600_o.jpg"
+  alt: Adhérents et bénévoles en atelier plein air
+  legend: Photo par © Guidoline 2020
 category: Évenements
 related_contents: []
 
