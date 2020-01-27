@@ -43,7 +43,31 @@ fields:
     source:
       type: pages
       section: blog
-  label: Articles en relation
+  label: Contenus en relation
+- name: related_post
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: blog
+      file: 
+      path: 
+  label: Article en relation
+- name: related_event
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: blog
+      file: 
+      path: 
+  label: Évenement en relation
 pages:
 - posts/2020/01/nocturne-portrait-cyclovélo.md
 - posts/2020/01/première-nocturne-de-2020.md
