@@ -1,9 +1,12 @@
 ---
-title: "Rejoignez l'équipe ! Guidoline recherche un(e) responsable d'atelier"
-date: "2019-07-02"
-coverImage: "responsable_atelierbis.jpg"
----
+title: Rejoignez l'équipe ! Guidoline recherche un(e) responsable d'atelier
+date: 2019-07-02
+coverImage: responsable_atelierbis.jpg
+cover:
+  src: "/uploads/2020/01/guidoline-recrute-1-service-civique.png"
+  alt: Guidoline recrute un volontaire en service civique.
 
+---
 Dans le cadre de l'ouverture de ce second atelier, l'association Guidoline est à la recherche d'un(e) responsable d'atelier en CDI plein temps à partir de septembre.
 
 Guidoline fait partie du réseau des ateliers participatifs et solidaires de réparation de vélos. Son but est de promouvoir la pratique du vélo, mode de transport doux, écologique et économique dans une logique d’entraide.
