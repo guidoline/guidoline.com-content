@@ -12,9 +12,9 @@ cover:
   legend: Photo par © Guidoline 2020
 category: Évenements
 related_posts:
-- posts/2016/12/appel-a-idees.md
-- posts/2013/06/armada-2013-parking-atelier-velo.md
-- posts/2010/11/bff-2010-paris.md
+- blog/2012/06/bourse-aux-velos-occasion-rouen.md
+- blog/2010/04/sizemybike.md
+- blog/2016/12/appel-a-idees.md
 
 ---
 Le _9 janvier 2020 de 18h00 à 22h00_
