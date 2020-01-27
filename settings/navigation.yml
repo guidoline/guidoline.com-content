@@ -1,5 +1,8 @@
 ---
 main:
+- name: Blog
+  url: blog
+  highlight: false
 - name: Agenda
   url: "/agenda"
   highlight: false
