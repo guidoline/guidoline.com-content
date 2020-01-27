@@ -44,3 +44,5 @@ fields:
       type: pages
       section: blog
   label: Contenus en relation
+pages:
+- posts/2020/01/nocturne-portrait-cyclovélo.md
