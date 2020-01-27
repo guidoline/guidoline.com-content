@@ -14,7 +14,7 @@ sections:
   path: mentions-legales.md
   label: Mentions légales
 - type: directory
-  path: posts
+  path: blog
   label: Blog
   create: all
   match: "**/*"
