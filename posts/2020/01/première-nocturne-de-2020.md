@@ -12,7 +12,7 @@ cover:
   legend: Photo par © Guidoline 2020
 category: Évenements
 related_contents:
-- posts/2010/08/atelier-des-velos-paris.md
+- posts/2016/03/assemblee-generale-2015.md
 - posts/2013/06/armada-2013-parking-atelier-velo.md
 - posts/2016/12/appel-a-idees.md
 related_post: ''
