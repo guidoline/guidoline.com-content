@@ -1,6 +1,6 @@
 ---
 title: Rejoignez l'équipe ! Guidoline recherche un(e) responsable d'atelier
-date: 2019/06/30
+date: 2019/07/01 10:00 PM +0000
 coverImage: responsable_atelierbis.jpg
 cover:
   src: "/uploads/2020/01/guidoline-recrute-1-service-civique.png"
