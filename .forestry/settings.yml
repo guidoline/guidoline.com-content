@@ -13,9 +13,6 @@ sections:
 - type: document
   path: mentions-legales.md
   label: Mentions légales
-- type: document
-  path: test.md
-  label: Test
 - type: directory
   path: posts
   label: Blog
