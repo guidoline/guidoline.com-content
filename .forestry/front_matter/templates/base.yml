@@ -27,10 +27,10 @@ fields:
   description: ''
   config:
     required: false
-    date_format: YYYY/MM/DD
+    date_format: ''
     time_format: ''
     display_utc: false
-    export_format: YYYY/MM/DD
+    export_format: YYYY/MM/DD h:mm A ZZ
   default: now
 - name: description
   type: textarea
