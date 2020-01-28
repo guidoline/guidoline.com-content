@@ -1,6 +1,6 @@
 ---
 title: Newsletter Mars 2019
-date: 2019/03/04 11:00 PM +0000
+date: 2019/03/04 10:00 PM +0000
 cover:
   src: "/uploads/2019/03/newsletter-mars-2019.png"
 category: Newsletter
