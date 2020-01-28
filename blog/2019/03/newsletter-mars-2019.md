@@ -2,9 +2,10 @@
 title: "Newsletter Mars 2019"
 date: "2019-03-05"
 cover:
-  src: "/uploads/newslettermars2019.png"
+  src: "/uploads/2019/03/newsletter-mars-2019.png"
 ---
 
+# Newsletter Mars 2019
 **Assemblée générale 2019**
 
 Chères adhérentes, chers adhérents,
@@ -17,6 +18,6 @@ Au plaisir de vous voir nombreux à contribuer à faire vivre notre belle associ
 
 Arnaud, président.
 
-\_\_\_
+---
 
 Suite de la newsletter en suivant ce lien : [http://bit.ly/2tPE142](http://bit.ly/2tPE142)

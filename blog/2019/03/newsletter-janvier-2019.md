@@ -2,8 +2,11 @@
 title: "Newsletter Janvier 2019"
 date: "2019-03-05"
 cover:
-  src: "/uploads/visuel-tandem-23-2.png"
+  src: "/uploads/2019/03/newsletter-janvier-2019.png"
+  alt: "Newsletter janvier 2019"
 ---
+
+# Newsletter Janvier 2019
 
 **Une nouvelle année commence !**
 
@@ -21,6 +24,6 @@ Aussi, pour continuer à bénéficier de cette belle association, nous tous, mem
 
 Au plaisir de se voir à Guidoline.
 
-\_\_\_
+---
 
 Suite de la newsletter en suivant ce lien : [http://bit.ly/2IPgn1V](http://bit.ly/2IPgn1V)

@@ -2,8 +2,11 @@
 title: "Guidoline recrute un volontaires en Service Civique à partir d'avril !"
 date: "2019-03-12"
 cover:
-  src: "/uploads/service-civique.png"
+  src: "/uploads/2019/03/guidoline-recrute-un-service-civique.png"
+  alt: "Guidoline recrute un service civique"
 ---
+
+# Guidoline recrute un volontaire en Service Civique à partir d'avril 2019
 
 Guidoline recherche **un volontaire en Service Civique !**
 
