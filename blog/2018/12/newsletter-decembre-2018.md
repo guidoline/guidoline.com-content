@@ -1,13 +1,13 @@
 ---
 title: "Newsletter Décembre 2018"
-date: 2019/03/05
+date: 2018/12/05
 cover:
-  src: "/uploads/2019/03/newsletter-decembre-2019.png"
-  alt: "Newsletter décembre 2019"
+  src: "/uploads/2018/12/newsletter-decembre-2019.png"
+  alt: "Newsletter décembre 2018"
 category: Newsletter
 ---
 
-# Newsletter Décembre 2019
+# Newsletter Décembre 2018
 
 **Finir l’année en beauté !**
 
