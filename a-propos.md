@@ -13,7 +13,7 @@ cover:
 author: authors/guidoline.md
 published: ''
 description: ''
-date: 
+date: 2020/01/28 12:00 AM +0000
 hero:
   src: ''
   alt: ''
@@ -22,6 +22,11 @@ hero:
   href: ''
   icon: ''
   color: ''
+  link:
+    text: ''
+    href: ''
+    icon: ''
+    color: ''
 
 ---
 **Guidoline** est né en **2010** de trois passionnés de vélo autour d’une même envie : **mettre Rouen en selle**.
