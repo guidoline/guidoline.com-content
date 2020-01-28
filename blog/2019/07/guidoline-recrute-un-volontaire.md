@@ -1,10 +1,12 @@
 ---
-title: "Guidoline, recrute un volontaire"
-date: "2019-07-02"
+title: Guidoline, recrute un volontaire
+date: 2019-07-02
 cover:
-  src: "/uploads/2019/07/uploads/guidoline-recrute-un-volontaire-en-service-civique.png"
----
+  src: "/uploads/2020/01/guidoline-recrute-1-service-civique.png"
+  alt: Guidoline recrute un volontaire en service civique
+author: authors/guidoline.md
 
+---
 # Guidoline, recrute un volontaire
 
 Alors que notre nouveau service civique, Malo, a trouvé ses marques dans l'atelier Guidoline, nous sommes à la recherche d'un second volontaire pour compléter l'équipe dès cet été.
