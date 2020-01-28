@@ -8,7 +8,12 @@ fields:
   template: couverture
   label: Couverture
 - name: link
-  type: include
+  type: field_group
   config: {}
-  template: _lien
+  fields:
+  - name: link
+    type: include
+    config: {}
+    template: _lien
+    label: Lien
   label: Lien
