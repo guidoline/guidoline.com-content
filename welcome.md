@@ -69,8 +69,10 @@ sections:
 date: ''
 hero:
   image: "/uploads/2020/01/vu4t4.jpeg"
-  alt: ''
-  legend: ''
+  alt: Carte, badges et casquette de cycliste.
+  legend: 'Exemple de description de couverture [250 signes maximum].
+
+'
   text: ''
   href: ''
   icon: ''
