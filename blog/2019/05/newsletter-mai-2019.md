@@ -1,8 +1,8 @@
 ---
 title: Newsletter Mai 2019
-date: 2019-04-30
+date: 2019/05/30
 cover:
-  src: "/uploads/2019/04/newsletter-mai-2019.png"
+  src: "/uploads/2019/05/newsletter-mai-2019.png"
   alt: Newsletter mai 2019
 category: Newsletter
 

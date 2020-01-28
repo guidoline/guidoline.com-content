@@ -1,8 +1,8 @@
 ---
 title: "Newsletter Janvier 2019"
-date: "2019-03-05"
+date: 2019/01/05
 cover:
-  src: "/uploads/2019/03/newsletter-janvier-2019.png"
+  src: "/uploads/2019/01/newsletter-janvier-2019.png"
   alt: "Newsletter janvier 2019"
 category: Newsletter
 ---

@@ -1,6 +1,6 @@
 ---
 title: Newsletter Juin 2019
-date: 2019-06-10
+date: 2019/06/10
 cover:
   src: "/uploads/2019/06/newsletter-juin-2019.png"
   alt: Newsletter juin 2019
