@@ -3,7 +3,7 @@ title: Newsletter Avril 2019
 date: 2019/04/27
 cover:
   src: "/uploads/2019/04/newsletter-avril-2019.png"
-  alt: Newsletter avril 2019.
+  alt: Newsletter avril 2019
 category: Newsletter
 author: authors/guidoline.md
 
