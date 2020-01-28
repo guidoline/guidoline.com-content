@@ -57,7 +57,7 @@ hero:
     href: blog/2019/07/rejoignez-lequipe-guidoline-recherche-une-responsable-datelier
     icon: ''
     color: primary
-  src: ''
+  src: "/uploads/2020/01/vu4t4.jpeg"
 
 ---
 ![L'équipe de Guidoline](/uploads/2020/01/equipe-guidoline.jpg)
