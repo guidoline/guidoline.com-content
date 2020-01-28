@@ -78,6 +78,6 @@ hero:
   src: "/uploads/2020/01/vu4t4.jpeg"
 
 ---
-![](/uploads/2020/01/equipe-guidoline.jpg)
+![L'équipe de Guidoline](/uploads/2020/01/equipe-guidoline.jpg)
 
-Description / résumé principal de Guidoline \[500 signes maximum\] 
+Description / résumé principal de Guidoline \[500 signes maximum\]
