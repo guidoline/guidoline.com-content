@@ -5,11 +5,6 @@ cover:
   src: "/uploads/2020/01/vu4t4.jpeg"
   alt: ''
   legend: ''
-  link:
-    text: ''
-    target: ''
-    icon: ''
-    color: ''
 author: authors/guidoline.md
 published: ''
 description: ''
