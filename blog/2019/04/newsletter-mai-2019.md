@@ -2,8 +2,11 @@
 title: "Newsletter Mai 2019"
 date: "2019-04-30"
 cover:
-  src: "/uploads/news_mai_insta.png"
+  src: "/uploads/2019/04/newsletter-mai-2019.png"
+  alt: "Newsletter mai 2019"
 ---
+
+# Newsletter Mai 2019
 
 **Nocturnes #2 et #3**
 
@@ -17,6 +20,6 @@ Pour la nocturne #2, le collectif HSH proposera également un atelier convivial 
 
 Lors de ces nocturnes, c'est le café culturel de Guidoline qui est ouvert et accueille les festivités (pas l'atelier, donc pas de mécanique).
 
-\_\_\_
+---
 
 Suite de la newsletter en suivant ce lien : [http://bit.ly/2Y2ZFiH](http://bit.ly/2Y2ZFiH)
