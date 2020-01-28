@@ -3,6 +3,8 @@ title: "Newsletter Décembre 2018"
 date: "2019-03-05"
 cover:
   src: "/uploads/2019/03/newsletter-decembre-2019.png"
+  alt: "Newsletter décembre 2019"
+category: Newsletter
 ---
 
 # Newsletter Décembre 2019

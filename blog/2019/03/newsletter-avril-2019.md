@@ -4,6 +4,7 @@ date: "2019-03-27"
 cover:
   src: "/uploads/2019/03/newsletter-avril-2019.png"
   alt: "Newsletter avril 2019"
+category: Newsletter
 ---
 
 # Newsletter Avril 2019
