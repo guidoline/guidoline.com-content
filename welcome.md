@@ -1,17 +1,7 @@
 ---
 title: Bienvenue
 author: authors/guidoline.md
-published: '2020-01-13T23:00:00Z'
 description: Description de la page.
-cover:
-  src: "/uploads/2020/01/vu4t4.jpeg"
-  alt: Carte, badges et casquette de cycliste.
-  legend: Exemple de description en image de de couverture [250 signes maximum].
-  link:
-    text: Exemple de liend'appel à l'action
-    target: http://example.com
-    icon: download
-    color: primary
 sections:
 - template: _section
   title: Atelier de bicyclette
@@ -24,10 +14,6 @@ sections:
     target: "/a-propos#atelier"
     icon: ''
     color: ''
-  text: ''
-  href: ''
-  icon: ''
-  color: ''
 - template: _section
   link:
     icon: []
@@ -42,10 +28,6 @@ sections:
 
     _Mardi, mercredi, vendredi et samedi : 14h00 à 19h00_
   title: Bar / café
-  text: ''
-  href: ''
-  icon: ''
-  color: ''
 - template: _section
   title: Animation / prestations
   content: |-
@@ -62,22 +44,11 @@ sections:
     target: ''
     icon: ''
     color: ''
-  text: ''
-  href: ''
-  icon: ''
-  color: ''
 date: ''
 hero:
   image: "/uploads/2020/01/vu4t4.jpeg"
   alt: Carte, badges et casquette de cycliste.
-  legend: 'Exemple de description de couverture [250 signes maximum].
-
-'
-  text: ''
-  href: ''
-  icon: ''
-  color: ''
-  src: "/uploads/2020/01/vu4t4.jpeg"
+  legend: 'Exemple de description de couverture [250 signes maximum].'
   link:
     text: Exemple de lien vers du contenu
     href: blog/2019/07/rejoignez-lequipe-guidoline-recherche-une-responsable-datelier
