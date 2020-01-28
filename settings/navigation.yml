@@ -10,5 +10,7 @@ main:
   highlight: false
   name: À propos
 footer:
+- name: Étiquettes
+  url: tags
 - name: Mentions légales
   url: mentions-legales
