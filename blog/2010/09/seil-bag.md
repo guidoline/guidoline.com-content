@@ -3,7 +3,7 @@ title: "Seil Bag"
 date: "2010-09-29"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/09/Lee-Myung-Su2.jpg "Lee-Myung-Su2")
+![](images/Lee-Myung-Su2.jpg "Lee-Myung-Su2")
 
 [Seil Bag](http://www.youtube.com/watch?v=HpNlsHlHQoE&feature=player_embedded#!)
 

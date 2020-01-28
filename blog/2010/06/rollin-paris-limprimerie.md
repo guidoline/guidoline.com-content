@@ -3,7 +3,7 @@ title: "Rollin' Paris | L'imprimerie"
 date: "2010-06-29"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/06/imprimerie.jpg "imprimerie") A l'occasion du Tour de France, **Oakley** présente l'exposition **Rollin’ Paris** à [la galerie L'imprimerie](http://www.galleryimprimerie.com/) du 1er au 23 Juillet et remet au goût du jour son modèle de lunettes mythiques les **Eyeshades**.
+![](images/imprimerie.jpg "imprimerie") A l'occasion du Tour de France, **Oakley** présente l'exposition **Rollin’ Paris** à [la galerie L'imprimerie](http://www.galleryimprimerie.com/) du 1er au 23 Juillet et remet au goût du jour son modèle de lunettes mythiques les **Eyeshades**.
 
 Dix vélos équipés d’une caméra seront mis à disposition des visiteurs et pourront être empruntés le temps d’une petite balade dans les rues de Paris. Les films ainsi réalisés seront diffusés sur des écrans dans la galerie et également en ligne. Une exposition qui évolue donc au fil du temps et qui permettra à chacun d’entre nous de pouvoir être un acteur de celle-ci.
 

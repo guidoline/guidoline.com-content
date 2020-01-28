@@ -1,7 +1,8 @@
 ---
 title: "Chantier et déménagement"
 date: "2013-02-23"
-coverImage: "P1050158-580x435.jpg"
+cover:
+  src: "/uploads/P1050158-580x435.jpg"
 ---
 
 Le **chantier** du futur lieu est en cours depuis début février et jusqu'à fin mars, le **déménagement de l'atelier** a lieu **dimanche 24 février** à partir de **13h00**.

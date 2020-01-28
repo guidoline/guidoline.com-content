@@ -9,16 +9,16 @@ L'association d'une thématique et d'un service de boissons délicatement prépa
 
 Le grand retour (logique) du vélo dans nos villes donne naissance à des espaces café/bicyclette ou il fait bon se détendre. Bientôt à Rouen?
 
-![](http://www.guidoline.com/wp-content/uploads/2010/07/cycle1.jpg "cycle1")
+![](images/cycle1.jpg "cycle1")
 
-![](http://www.guidoline.com/wp-content/uploads/2010/07/cycle2.jpg "cycle2")
+![](images/cycle2.jpg "cycle2")
 
-![](http://www.guidoline.com/wp-content/uploads/2010/07/cycle3.jpg "cycle3")
+![](images/cycle3.jpg "cycle3")
 
-![](http://www.guidoline.com/wp-content/uploads/2010/07/cycle4.jpg "cycle4")
+![](images/cycle4.jpg "cycle4")
 
-![](http://www.guidoline.com/wp-content/uploads/2010/07/cycle5.jpg "cycle5")
+![](images/cycle5.jpg "cycle5")
 
-![](http://www.guidoline.com/wp-content/uploads/2010/07/cycle6.jpg "cycle6")
+![](images/cycle6.jpg "cycle6")
 
 d'après ... [bikeblogbook.blogspot.com](http://bikeblogbook.blogspot.com/)

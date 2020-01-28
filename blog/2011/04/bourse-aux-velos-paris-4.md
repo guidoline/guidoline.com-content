@@ -3,7 +3,7 @@ title: "Bourse aux Vélos Paris 4"
 date: "2011-04-01"
 ---
 
-[![](http://www.guidoline.com/wp-content/uploads/2011/04/affiche-bourse-HD-def.jpg "La bourse aux vélos - 4ème - Paris")](http://www.guidoline.com/wp-content/uploads/2011/04/affiche-bourse-HD-def.jpg)Après le succès de l'année dernière, la **mairie du 4e** et la Régie de quartier Paris Centre organisent "**La bourse aux vélos du 4e**" mettant en relation acheteurs et vendeurs de vélos.
+[![](images/affiche-bourse-HD-def.jpg "La bourse aux vélos - 4ème - Paris")](http://www.guidoline.com/wp-content/uploads/2011/04/affiche-bourse-HD-def.jpg)Après le succès de l'année dernière, la **mairie du 4e** et la Régie de quartier Paris Centre organisent "**La bourse aux vélos du 4e**" mettant en relation acheteurs et vendeurs de vélos.
 
 À cette occasion, nous serons présent pour animer un **Goldsprint** et vous faire exploser les jambes !
 

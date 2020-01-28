@@ -1,7 +1,8 @@
 ---
 title: "Guidoline recrute des volontaires en Service Civique !"
 date: "2014-07-08"
-coverImage: "service.jpg"
+cover:
+  src: "/uploads/service.jpg"
 ---
 
 Guidoline recherche **2 volontaires en Service Civique** pour deux missions différentes d'une durée de 8 mois.

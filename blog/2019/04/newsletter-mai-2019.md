@@ -1,7 +1,8 @@
 ---
 title: "Newsletter Mai 2019"
 date: "2019-04-30"
-coverImage: "news_mai_insta.png"
+cover:
+  src: "/uploads/news_mai_insta.png"
 ---
 
 **Nocturnes #2 et #3**

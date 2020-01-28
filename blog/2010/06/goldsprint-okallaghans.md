@@ -3,7 +3,7 @@ title: "Goldsprint | O'kallaghan's"
 date: "2010-06-02"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/06/goldsprint.jpg "Goldsprint")
+![](images/goldsprint.jpg "Goldsprint")
 
 Guidoline organise vendredi 04 juin son premier goldsprint, course de vélos sur rouleaux au pub O'kallaghan's à Rouen.
 

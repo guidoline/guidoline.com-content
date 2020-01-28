@@ -1,7 +1,8 @@
 ---
 title: "Bonne année 2016 !"
 date: "2016-01-21"
-coverImage: "voeux.jpg"
+cover:
+  src: "/uploads/voeux.jpg"
 ---
 
 **2015** a encore été **une année folle pour Guidoline**, **plus de 3000 adhérents au compteur, une équipe qui s'agrandit, la création d'une coopérative,** des évènements tous les mois, ... On vous prépare un beau petit bilan pour la prochaine AG qui présentera tout ça en détails.

@@ -3,7 +3,7 @@ title: "Voyage en Ecosse"
 date: "2011-05-16"
 ---
 
-[![](http://www.guidoline.com/wp-content/uploads/2011/05/ecosse.jpg "ecosse")](http://www.guidoline.com/wp-content/uploads/2011/05/ecosse.jpg)
+[![](images/ecosse.jpg "ecosse")](http://www.guidoline.com/wp-content/uploads/2011/05/ecosse.jpg)
 
 Bonjour les amis.
 

@@ -3,7 +3,7 @@ title: "Bicycle Store Paris"
 date: "2010-06-15"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/06/logobs.jpg "Bicycle Store Paris")
+![](images/logobs.jpg "Bicycle Store Paris")
 
 Grand Opening, une vidéo bien cool réalisée en une prise par [Jérémy Halkin](http://www.jeremyhalkin.com) pour Bicycle Store, un concept store entre le magasin de vélos, l'atelier et la galerie. J'aime ! Surtout l'apparition de Joey Starr de l'ami Greg des [MGM](http://www.facebook.com/pages/Paris-France/MGM-Bike-Polo/131176320241408) en train de boire une bière et allumer des pétards si je me trompe pas :)
 

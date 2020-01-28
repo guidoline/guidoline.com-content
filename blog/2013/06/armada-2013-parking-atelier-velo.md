@@ -1,7 +1,8 @@
 ---
 title: "Armada 2013 - Parking & atelier vélo"
 date: "2013-06-04"
-coverImage: "fly-armada-580x425.jpg"
+cover:
+  src: "/uploads/fly-armada-580x425.jpg"
 ---
 
 A l’occasion de l’**Armada 2013** à Rouen, Guidoline assure un **service de gardiennage** sur le parvis du Théâtre des Arts. Il sera possible de faire **garder votre vélo gratuitement**, du 8 au 16 juin de 9h à minuit. L'**atelier mobile** sera également à disposition pour proposer **conseils et réparation**.

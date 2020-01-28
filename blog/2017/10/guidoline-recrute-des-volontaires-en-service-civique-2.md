@@ -1,7 +1,8 @@
 ---
 title: "Guidoline recrute des volontaires en Service Civique !"
 date: "2017-10-05"
-coverImage: "size_1_logo-service-civique-hdjpeg.jpg"
+cover:
+  src: "/uploads/size_1_logo-service-civique-hdjpeg.jpg"
 ---
 
 Guidoline recherche **2 volontaires en Service Civique** !

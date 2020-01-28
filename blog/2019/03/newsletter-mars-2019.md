@@ -1,7 +1,8 @@
 ---
 title: "Newsletter Mars 2019"
 date: "2019-03-05"
-coverImage: "newslettermars2019.png"
+cover:
+  src: "/uploads/newslettermars2019.png"
 ---
 
 **Assemblée générale 2019**

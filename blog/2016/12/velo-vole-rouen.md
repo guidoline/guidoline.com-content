@@ -1,7 +1,8 @@
 ---
 title: "VÉLO VOLÉ ROUEN"
 date: "2016-12-23"
-coverImage: "Vélo-Volé.png"
+cover:
+  src: "/uploads/Vélo-Volé.png"
 ---
 
 Cela fait un peu plus de deux ans que [la page Vélo volé Rouen](https://www.facebook.com/groups/319660908222099/?fref=ts) existe maintenant et il est temps de faire un mini bilan !

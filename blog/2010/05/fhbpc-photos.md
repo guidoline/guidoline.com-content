@@ -3,7 +3,7 @@ title: "FHBPC | Photos"
 date: "2010-05-31"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/05/4655491137_da0b134675_b.jpg "FHBPC")
+![](images/4655491137_da0b134675_b.jpg "FHBPC")
 
 Premières photos de [Pierre Mahieu](http://www.flickr.com/photos/mahpie/sets/72157624172395628/) du tournoi FHBPC qui avait lieu à Rouen ce week-end. Deux journées 100% Polo dans une ambiance comme on les aime avec un niveau qui grimpe de plus en plus et plein de nouvelles équipes qui promettent ! Encore un grand merci à tous, les joueurs, Valentin et son équipe pour avoir filmé tout l'évènement, Pierre et Hugo pour les photos, mes parents pour la buvette et les hamburgers :), Thierry de Cycles76 pour avoir dévoilé au moins 20 roues, Nico pour vendredi soir, et tout ce que j'ai pu oublier.
 

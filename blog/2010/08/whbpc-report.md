@@ -3,7 +3,7 @@ title: "WHBPC | Report"
 date: "2010-08-23"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/08/whbpc-422-610x457.jpg "Whbpc")
+![](images/whbpc-422-610x457.jpg "Whbpc")
 
 Avec un peu de retard, petit break en Bretagne oblige :) Voici quelques photos des championnats du monde qui se sont déroulés à Berlin du 12 au 15 Août. Malgré une organisation qui n'était pas vraiment à la hauteur de l'évènement et un mauvais temps pendant quasiment tout le week-end, on voit que le "Polo plaisir" passe au dessus de tout ça et on revient avec plein de bons souvenirs ! Super week-end semaine Berlinoise avec mention spéciale pour le [bar du Gymnase](http://www.flickr.com/photos/guidoline/4920148935/in/set-72157624790651700/) !
 

@@ -1,12 +1,14 @@
 ---
-title: Newsletter Décembre 2019
-date: 2019-12-11
-author: authors/guidoline.md
+title: "Newsletter Décembre 2019"
+date: "2019-12-11"
+description: Une newsletter pour souhaiter de joyeuses fêtes de fin d'annèes 2019
 cover:
-  src: "/uploads/2020/01/vu4t4.jpeg"
-  alt: Carte, badge et casquette de cycliste.
-
+  src: "/uploads/2019/12/photo-carte-adherent2020.jpeg"
+  alt: "Carte d'adhérents, badges et casquettes"
 ---
+
+# Newsletter de Décembre 2019
+
 **Guidoline vous souhaite de joyeuses fêtes de fin d'année**
 
 Les Ateliers **Guidoline vous souhaitent un Joyeux-Noël et un bon réveillon de fin d'année**. Nous aurons le plaisir de vous accueillir dans nos ateliers à Rouen et à Sotteville-Lès-Rouen jusqu'à notre fermeture durant les fêtes. Ce sera pour vous l'occasion de réparer vos montures afin qu'elles passent l’hiver dans les meilleures conditions !

@@ -3,7 +3,7 @@ title: "Brum To Berlin"
 date: "2011-08-02"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2011/08/229252_143077859097684_128497113889092_280413_2967062_n.jpg "Brum To Berlin")900 miles, soit 1450 km, c'est la distance qui sépare Birmingham de Berlin à vélo.
+![](images/229252_143077859097684_128497113889092_280413_2967062_n.jpg "Brum To Berlin")900 miles, soit 1450 km, c'est la distance qui sépare Birmingham de Berlin à vélo.
 
 Aujourd'hui 5 riders sont partis avec comme première étape Londres, leur voyage va durer 13 jours et ils passeront dans des villes comme Calais ou Bruxelles.
 

@@ -1,7 +1,8 @@
 ---
 title: "Lettre ouverte aux adhérents de l'association Guidoline"
 date: "2017-09-19"
-coverImage: "lettre-ouverte.jpg"
+cover:
+  src: "/uploads/lettre-ouverte.jpg"
 ---
 
 Chères adhérentes, chers adhérents,

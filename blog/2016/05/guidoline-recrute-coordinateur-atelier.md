@@ -1,7 +1,8 @@
 ---
 title: "Guidoline recrute !"
 date: "2016-05-25"
-coverImage: "guidoline-recrute.jpg"
+cover:
+  src: "/uploads/guidoline-recrute.jpg"
 ---
 
 **Vous êtes passionné de vélo**, mais pas que ? Guidoline **recrute un coordinateur d'atelier** pour rejoindre l'équipe en **septembre 2016** !

@@ -1,7 +1,8 @@
 ---
 title: "Atelier mobile - Journées du développement durable"
 date: "2013-04-03"
-coverImage: "jdd-elbeuf-580x798.jpg"
+cover:
+  src: "/uploads/jdd-elbeuf-580x798.jpg"
 ---
 
 Retrouvez nous **dimanche 7 avril** à **Saint-Pierre-lès-Elbeuf** dans le cadre des journées du développement durable avec notre **atelier mobile de 9h à 18h** pour vous apprendre à réparer votre vélo !

@@ -3,7 +3,7 @@ title: "Greif Masters 2"
 date: "2011-02-15"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2011/02/greifmasters-france.jpg "greifmasters-france")
+![](images/greifmasters-france.jpg "greifmasters-france")
 
 C'est le week-end dernier du 4 au 6 février qu'avait lieu à **Karlsruhe** la deuxième édition du tournoi de Bike-polo **[Greif Masters](http://greifmasters.com/)**, avec pour nouveauté un format en **Bench Minor**.
 

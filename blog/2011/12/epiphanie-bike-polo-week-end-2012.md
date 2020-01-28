@@ -3,7 +3,7 @@ title: "Epiphanie Bike polo Week-end 2012"
 date: "2011-12-29"
 ---
 
-[![](http://www.guidoline.com/wp-content/uploads/2011/12/epiphanie-2012.jpg "Epiphanie 2012")](http://www.guidoline.com/wp-content/uploads/2011/12/epiphanie-2012.jpg)
+[![](images/epiphanie-2012.jpg "Epiphanie 2012")](http://www.guidoline.com/wp-content/uploads/2011/12/epiphanie-2012.jpg)
 
 Guidoline annonce la troisième édition de l’Epihanie BikePolo Weekend. Le tournoi se déroulera le samedi 28 et dimanche 29 Janvier 2012 comme les années précédentes au stade Saint-Exupéry.
 

@@ -3,7 +3,7 @@ title: "Alpine Bike Polo Tournament | Photos"
 date: "2011-04-21"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2011/04/DSC_1653-1024x678.jpg "Alpine Bike Poo Tournament")
+![](images/DSC_1653-1024x678.jpg "Alpine Bike Poo Tournament")
 
 En attendant le petit montage vidéo que nous prépare Pierre, vous pouvez déjà profiter de ces quelques photos de l'**Alpine Bike Polo Tournament** qui s'est déroulé le week-end dernier à **Grenoble**.
 

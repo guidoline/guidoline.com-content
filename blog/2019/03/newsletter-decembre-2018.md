@@ -1,7 +1,8 @@
 ---
 title: "Newsletter Décembre 2018"
 date: "2019-03-05"
-coverImage: "decembre2018.png"
+cover:
+  src: "/uploads/decembre2018.png"
 ---
 
 **Finir l’année en beauté !**

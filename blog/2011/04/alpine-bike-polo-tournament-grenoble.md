@@ -3,7 +3,7 @@ title: "Alpine Bike Polo Tournament | Grenoble"
 date: "2011-04-04"
 ---
 
-[![](http://www.guidoline.com/wp-content/uploads/2011/04/AFFICHE-TOURNOI-ALPIN.jpeg "Alpine Bike Polo Tournament")](http://www.guidoline.com/wp-content/uploads/2011/04/AFFICHE-TOURNOI-ALPIN.jpeg)La [fine équipe Grenobloise](http://grenoblebikepolo.com/) nous a concocté pour le week-end du **16 et 17 avril l'Alpine Bike Polo Tournament**.
+[![](images/AFFICHE-TOURNOI-ALPIN.jpeg "Alpine Bike Polo Tournament")](http://www.guidoline.com/wp-content/uploads/2011/04/AFFICHE-TOURNOI-ALPIN.jpeg)La [fine équipe Grenobloise](http://grenoblebikepolo.com/) nous a concocté pour le week-end du **16 et 17 avril l'Alpine Bike Polo Tournament**.
 
 Au programme un vendredi en mode **Pick-up** pour se mettre en jambe avant le tournoi de samedi qui aura pour format **4 poules de 4 équipes -> classement de 1 à 16 -> Simple élimination**.
 

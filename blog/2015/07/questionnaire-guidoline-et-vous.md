@@ -1,7 +1,8 @@
 ---
 title: "Questionnaire Guidoline et vous !"
 date: "2015-07-02"
-coverImage: "bg-formulaire.jpg"
+cover:
+  src: "/uploads/bg-formulaire.jpg"
 ---
 
 Dans l'optique de mieux connaitre les adhérents de Guidoline et leur donner la parole, un questionnaire a été mis en ligne en avril 2015, il a reçu 63 réponses.

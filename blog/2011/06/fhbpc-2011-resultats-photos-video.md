@@ -3,7 +3,7 @@ title: "FHBPC 2011 | Résultats, photos, vidéo"
 date: "2011-06-06"
 ---
 
-[![](http://www.guidoline.com/wp-content/uploads/2011/06/fhbpc2011.jpg "fhbpc2011")](http://www.guidoline.com/wp-content/uploads/2011/06/fhbpc2011.jpg)
+[![](images/fhbpc2011.jpg "fhbpc2011")](http://www.guidoline.com/wp-content/uploads/2011/06/fhbpc2011.jpg)
 
 Résultats FHBPC 2011 | Toulouse :
 

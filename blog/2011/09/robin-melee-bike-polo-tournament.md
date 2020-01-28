@@ -3,7 +3,7 @@ title: "Robin Melee Bike polo tournament"
 date: "2011-09-07"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2011/09/melle-tournoi.jpg "Melee Bike polo tournament")
+![](images/melle-tournoi.jpg "Melee Bike polo tournament")
 
 Quelques images du tournoi de bike polo organisé dimanche dernier par l'ami Robinou avec des joueurs 100% da Rouen. Une journée polo vraiment cool à reproduire plus souvent, pour preuve différents messages tirés du forum.
 

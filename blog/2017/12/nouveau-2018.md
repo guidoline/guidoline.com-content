@@ -1,7 +1,8 @@
 ---
 title: "Du nouveau pour 2018 !"
 date: "2017-12-19"
-coverImage: "24327318_932230453595484_2070910557275291648_n.jpg"
+cover:
+  src: "/uploads/24327318_932230453595484_2070910557275291648_n.jpg"
 ---
 
 Bonjour Guidoline, bonjour chères et chers adhérents,

@@ -3,7 +3,7 @@ title: "Bicycle Séance"
 date: "2010-04-08"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/04/bicy-182x300.jpg "Bicycle Séance")Projection dans le cadre du Festival des Cultures Urbaines de Canteleu Vendredi 16 Avril à 19h00 | Gratuit | Espace Culturel François Mitterrand
+![](images/bicy-182x300.jpg "Bicycle Séance")Projection dans le cadre du Festival des Cultures Urbaines de Canteleu Vendredi 16 Avril à 19h00 | Gratuit | Espace Culturel François Mitterrand
 
 **"Le vélo de papi fait de la résistance"** Documentaire réalisé par Lagraph Production [Bob White](http://www.bobwhite-paris.com/) | France | 2010 | 26’
 

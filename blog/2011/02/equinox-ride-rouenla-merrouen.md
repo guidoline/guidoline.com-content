@@ -3,7 +3,7 @@ title: "Equinox Ride"
 date: "2011-02-20"
 ---
 
-[![](http://www.guidoline.com/wp-content/uploads/2011/02/equinox-ride-bleu.jpg "equinox ride bleu")](http://www.guidoline.com/2011/02/20/equinox-ride-rouenla-merrouen/equinox-ride-bleu/)
+[![](images/equinox-ride-bleu.jpg "equinox ride bleu")](http://www.guidoline.com/2011/02/20/equinox-ride-rouenla-merrouen/equinox-ride-bleu/)
 
 Salut à tous,
 

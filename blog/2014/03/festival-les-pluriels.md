@@ -1,7 +1,8 @@
 ---
 title: "Festival Les Pluriels"
 date: "2014-03-23"
-coverImage: "les-pluriels-20141.jpg"
+cover:
+  src: "/uploads/les-pluriels-20141.jpg"
 ---
 
 Le festival, désormais bien connu, est de retour à Rouen pour sa 17e édition, les 27, 28 et 29 mars prochain. Pour sa 17e édition, les Pluriels se plongent dans l’univers du rêve, peuplé d’êtres hybrides, de monstres et de chimères, se choisissant pour thème la Métamorphose. Une invitation lancée aux artistes, aux arts, aux matières, qui se sont donnés pour mot d’ordre de se renouveler constamment au cours des trois jours que durera le festival.

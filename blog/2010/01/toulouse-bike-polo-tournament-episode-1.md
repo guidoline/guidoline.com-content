@@ -3,7 +3,7 @@ title: "Toulouse | Bike Polo Tournament | Episode 1"
 date: "2010-01-19"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/03/toulouseepisode1.jpg "toulouseepisode1") 19 Janvier 2010
+![](images/toulouseepisode1.jpg "toulouseepisode1") 19 Janvier 2010
 
 Résultat :
 

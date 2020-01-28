@@ -3,7 +3,7 @@ title: "Résultats & Photos | Epiphanie Bike Polo Week-end 2011"
 date: "2011-02-01"
 ---
 
-[![](http://www.guidoline.com/wp-content/uploads/2011/02/epiphanie-bike-polo-2011.jpg "epiphanie-bike-polo-2011")](http://www.guidoline.com/wp-content/uploads/2011/02/epiphanie-bike-polo-2011.jpg)
+[![](images/epiphanie-bike-polo-2011.jpg "epiphanie-bike-polo-2011")](http://www.guidoline.com/wp-content/uploads/2011/02/epiphanie-bike-polo-2011.jpg)
 
 Un grand merci à tout le monde pour avoir encore passé en ce début d'année un superbe week-end polo ! La bonne ambiance et le niveau étaient au rendez-vous avec une finale juste exceptionnelle entre **les Iron Ponies et les Call me Daddy**. Et promis pour l'année prochaine on fait tout pour pouvoir inviter plus d'équipes et avoir du soleil.
 

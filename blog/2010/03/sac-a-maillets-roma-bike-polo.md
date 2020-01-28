@@ -3,7 +3,7 @@ title: "Sac à maillets Roma Bike Polo"
 date: "2010-03-19"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/03/RPB-mallet-bag.jpg "RPB-mallet-bag")
+![](images/RPB-mallet-bag.jpg "RPB-mallet-bag")
 
 Beau prototype de sac à maillets estampillé RBP, Rouen Bike Polo Roma Bike Polo
 

@@ -1,7 +1,8 @@
 ---
 title: "Newsletter Avril 2019"
 date: "2019-03-27"
-coverImage: "newsletteravril.png"
+cover:
+  src: "/uploads/newsletteravril.png"
 ---
 
 **Venez gagner une nuit au milieu des voiliers de l'Armada, jeudi 4 avril à partir de 19h00**

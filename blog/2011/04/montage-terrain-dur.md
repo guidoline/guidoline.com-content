@@ -3,7 +3,7 @@ title: "Montage Terrain Dur"
 date: "2011-04-16"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2011/04/IMG_6656.jpg "Terrain Dur")
+![](images/IMG_6656.jpg "Terrain Dur")
 
 Le montage de l'exposition **Terrain Dur Bike Polo Show** se déroule depuis quelques jours à L'**ECFM** de _Canteleu_.
 

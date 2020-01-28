@@ -1,7 +1,8 @@
 ---
 title: "Fermeture d'été"
 date: "2014-07-04"
-coverImage: "guidoline-fermeture-ete.jpg"
+cover:
+  src: "/uploads/guidoline-fermeture-ete.jpg"
 ---
 
 **Guidoline prendra ses quartiers d'été le 28 juillet et sera de retour mardi 19 août.**

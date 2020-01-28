@@ -3,7 +3,7 @@ title: "Roller racing - Bourse aux Vélos Paris 4"
 date: "2011-04-08"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2011/04/IMG_6170-1024x682.jpg "Roller Racing Guidoline")
+![](images/IMG_6170-1024x682.jpg "Roller Racing Guidoline")
 
 Retour en images et en vidéos sur cette session **Roller Racing** organisée par **Guidoline** le **dimanche 3 Avril** lors de la **bourse aux vélos à Paris 4**. Un après-midi cassage de cuisses sur 300m dans une bonne ambiance avec la team [**Surplace**](http://www.surplace.fr/) qui a bien envoyé, enfin pour certains :)
 

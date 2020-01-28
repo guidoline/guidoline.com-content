@@ -1,7 +1,9 @@
 ---
 title: "Guidoline ouvre un second atelier vélo !"
 date: "2019-07-02"
-coverImage: "sotteville_guido.png"
+cover:
+  src: "/uploads/2019/07/guidoline-sottevile-les-rouen.png"
+  alt: "Guidoline à Sotteville lès Rouen"
 ---
 
 _**Communiqué de presse de la Ville de Sotteville lès Rouen :**_

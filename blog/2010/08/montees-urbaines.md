@@ -7,4 +7,4 @@ Connu pour animer la vie anglaise d'événements vélos originaux, [Rollapalluza
 
 [http://vimeo.com/13757661](http://vimeo.com/13757661)
 
-![](http://www.guidoline.com/wp-content/uploads/2010/08/swains11-610x406.jpg "Swains") Above pic from: [Trulli](http://infamies.wordpress.com/2010/07/25/swains/)
+![](images/swains11-610x406.jpg "Swains") Above pic from: [Trulli](http://infamies.wordpress.com/2010/07/25/swains/)

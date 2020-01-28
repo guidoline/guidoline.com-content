@@ -1,7 +1,8 @@
 ---
 title: "Expérimentation box vélo"
 date: "2017-07-12"
-coverImage: "boxvelo.jpg"
+cover:
+  src: "/uploads/boxvelo.jpg"
 ---
 
 Le vélo est en plein essor à Rouen. Pourtant, il existe un frein important à son développement : un grand nombre de Rouennais n'ont pas la place chez eux ou sur leur lieu d'étude / de travail pour stationner leur vélo à l'abri du vol et des dégradations. Il est donc essentiel de leur proposer une solution ! Guidoline va expérimenter un nouveau type de stationnement vélo en partenariat avec la Métropole Rouen Normandie.

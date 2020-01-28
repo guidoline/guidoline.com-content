@@ -1,7 +1,8 @@
 ---
 title: "Newsletter Juin 2019"
 date: "2019-06-10"
-coverImage: "news_juin.png"
+cover:
+  src: "/uploads/news_juin.png"
 ---
 
 **Guidoline et le camping flottant !**

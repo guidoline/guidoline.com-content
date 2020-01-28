@@ -3,7 +3,7 @@ title: "Tête de maillet Eight inch"
 date: "2010-04-20"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/04/eightinchmallet.jpg "Eight Inch polo mallet") Ça y est, la [tête de maillet de polo Eight inch](http://www.eighthinch.com/polo.html) est enfin disponible ! Comme pour le prototype qui avait été présenté dernièrement, on y retrouve énormément de détails.
+![](images/eightinchmallet.jpg "Eight Inch polo mallet") Ça y est, la [tête de maillet de polo Eight inch](http://www.eighthinch.com/polo.html) est enfin disponible ! Comme pour le prototype qui avait été présenté dernièrement, on y retrouve énormément de détails.
 
 \- Bouchons interchangeables - Ligne de coupe à 150mm et 130mm - Un seul point de fixation interne à la tête - Encoche pour un meilleur contrôle de la balle - ...
 

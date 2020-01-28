@@ -3,7 +3,7 @@ title: "Terrain Dur | Bike Polo Show"
 date: "2011-01-14"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2011/01/terrain-dur.jpg "Terrain Dur Bike Polo Show")
+![](images/terrain-dur.jpg "Terrain Dur Bike Polo Show")
 
 Bonjour les amis,
 

@@ -3,7 +3,7 @@ title: "Bespoke | The Handbuilt Bicycle"
 date: "2010-05-02"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/05/vanilla_tricycle-02.jpg "vanilla_tricycle-02")
+![](images/vanilla_tricycle-02.jpg "vanilla_tricycle-02")
 
 Une exposition sur six constructeurs de vélos de renommée internationale dont les travaux en métal, ainsi que graphiques reflète le rafinement, la complexité et la singularité de cet artisanat. Organisé par Michael Maharam, propriétaire de l'entreprise textile éponyme et un collectionneur passionné de vélo, avec le maître d'œuvre de Sacha White Bicycles vanille à Portland, Oregon, cette enquête est présentée dans le cadre de la série d'expositions MADProjects, qui explore les nouvelles tendances et innovations mondiales en matière de design.
 

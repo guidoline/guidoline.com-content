@@ -1,7 +1,8 @@
 ---
 title: "Inauguration nouveaux locaux"
 date: "2013-04-20"
-coverImage: "fly-visuel.jpg"
+cover:
+  src: "/uploads/fly-visuel.jpg"
 ---
 
 Guidoline a le plaisir de vous convier à la découverte de ses nouveaux locaux.

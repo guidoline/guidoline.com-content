@@ -1,7 +1,8 @@
 ---
 title: "Newsletter Janvier 2019"
 date: "2019-03-05"
-coverImage: "visuel-tandem-23-2.png"
+cover:
+  src: "/uploads/visuel-tandem-23-2.png"
 ---
 
 **Une nouvelle année commence !**

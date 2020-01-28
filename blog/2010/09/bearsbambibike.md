@@ -3,7 +3,7 @@ title: "Bears*Bambi*Bike"
 date: "2010-09-16"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/09/tom-1.jpg)
+![](images/tom-1.jpg)
 
 Le mois d'octobre est réjouissant... avec notamment cette exposition à la galerie [_Une poussière dans l'oeil_](http://labelle.epoque.free.fr/).
 

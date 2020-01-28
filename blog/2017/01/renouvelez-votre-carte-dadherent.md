@@ -1,7 +1,8 @@
 ---
 title: "RENOUVELEZ VOTRE CARTE D'ADHERENT"
 date: "2017-01-18"
-coverImage: "20170117_155555-1.jpg"
+cover:
+  src: "/uploads/20170117_155555-1.jpg"
 ---
 
 Ça y est, c'est 2017 !

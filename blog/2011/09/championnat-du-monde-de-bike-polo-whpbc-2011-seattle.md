@@ -3,7 +3,7 @@ title: "Championnat du monde de Bike polo - WHPBC 2011 - Seattle (USA) 8-11 Sept
 date: "2011-09-07"
 ---
 
-[![](http://www.guidoline.com/wp-content/uploads/2011/09/whbpc2011.png "Whbpc 2011")](http://www.guidoline.com/wp-content/uploads/2011/09/whbpc2011.png)
+[![](images/whbpc2011.png "Whbpc 2011")](http://www.guidoline.com/wp-content/uploads/2011/09/whbpc2011.png)
 
 Depuis quelques heures maintenant le championnat du monde de Bike polo se déroule à Seattle dans l’état de Washington, aux USA.
 

@@ -3,7 +3,7 @@ title: "Polomania 2010"
 date: "2010-05-15"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/05/polomania-36.jpg "polomania-36")
+![](images/polomania-36.jpg "polomania-36")
 
 Le 8 et 9 Mai avait lieu le tournoi [Polomania](http://polomania.wordpress.com/) à Amsterdam, pour l'occasion l'équipe Rouen All Stars un mix des Broken Legs et DBAA avait fait le déplacement.
 

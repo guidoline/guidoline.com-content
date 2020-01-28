@@ -9,4 +9,4 @@ L'expérience 2009 à Paris était remplie d'enthousiasme et de rencontres. esp�
 
 Infos et inscriptions : [http://www.pignonfixe.com/rideberetbaguette/](http://www.pignonfixe.com/rideberetbaguette/)
 
-![](http://www.guidoline.com/wp-content/uploads/2010/04/beret.jpg "beret")
+![](images/beret.jpg "beret")

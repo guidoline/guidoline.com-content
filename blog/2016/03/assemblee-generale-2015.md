@@ -1,7 +1,8 @@
 ---
 title: "Assemblée générale 2015"
 date: "2016-03-30"
-coverImage: "DSC03908.jpg"
+cover:
+  src: "/uploads/DSC03908.jpg"
 ---
 
 Fidèle à son objectif initial; promouvoir et valoriser la pratique du vélo en ville au quotidien, l'association Guidoline a encore, durant cette année 2015, a amplifié ses actions et dynamisé ses moyens.

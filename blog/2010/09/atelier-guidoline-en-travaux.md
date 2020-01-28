@@ -3,7 +3,7 @@ title: "Atelier Guidoline en travaux"
 date: "2010-09-14"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/09/atelier.jpg "atelier")
+![](images/atelier.jpg "atelier")
 
 Les travaux avancent à grands pas dans le futur atelier Guidoline !
 

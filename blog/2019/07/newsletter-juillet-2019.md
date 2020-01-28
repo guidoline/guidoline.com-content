@@ -1,7 +1,8 @@
 ---
 title: "Newsletter Juillet 2019"
 date: "2019-07-02"
-coverImage: "insta.png"
+cover:
+  src: "/2019/07/uploads/newsletter-juillet-2019.png"
 ---
 
 **Guidoline ouvre un second atelier vélo !**

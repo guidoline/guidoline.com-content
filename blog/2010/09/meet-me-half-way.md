@@ -3,7 +3,7 @@ title: "Meet me half way"
 date: "2010-09-18"
 ---
 
-![](http://www.guidoline.com/wp-content/uploads/2010/09/MMHW-AMIENS.jpg "MMHW-AMIENS")
+![](images/MMHW-AMIENS.jpg "MMHW-AMIENS")
 
 Après le succès du 1er Meet Me Half Way de cet hiver entre Paris et Rouen, il était temps d'en organiser un autre. Amiens... sa cathédrale, le quartier de Saint Leu, le club d'aviron d'Amiens...
 

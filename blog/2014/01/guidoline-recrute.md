@@ -1,7 +1,8 @@
 ---
 title: "Guidoline recrute !"
 date: "2014-01-09"
-coverImage: "service.jpg"
+cover:
+  src: "/uploads/service.jpg"
 ---
 
 Guidoline recrute un **volontaire en Service Civique**.

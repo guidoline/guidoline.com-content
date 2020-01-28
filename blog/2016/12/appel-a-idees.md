@@ -1,7 +1,8 @@
 ---
 title: "APPEL À IDÉES !"
 date: "2016-12-23"
-coverImage: "Sondage.jpg"
+cover:
+  src: "/uploads/Sondage.jpg"
 ---
 
 L'équipe de Guidoline souhaite connaitre **vos attentes pour la nouvelle saison**.
