@@ -4,6 +4,7 @@ date: 2019-07-02
 cover:
   src: "/uploads/2019/07/guidoline-sottevile-les-rouen.png"
   alt: Guidoline à Sotteville lès Rouen
+author: authors/guidoline.md
 
 ---
 # Guidoline ouvre un second atelier vélo !
