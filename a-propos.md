@@ -7,7 +7,7 @@ cover:
   legend: ''
 author: authors/guidoline.md
 published: ''
-description: ''
+description: Plus d'informations sur Guidoline.
 date: 2020/01/28 12:00 AM +0000
 hero:
   src: ''
