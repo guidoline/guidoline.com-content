@@ -47,7 +47,7 @@ sections:
     icon: ''
     color: ''
     href: ''
-date: ''
+date: 2020/01/28 12:00 AM +0000
 hero:
   image: "/uploads/2020/01/vu4t4.jpeg"
   alt: Carte, badges et casquette de cycliste.
