@@ -3,6 +3,7 @@ title: Newsletter Mars 2019
 date: 2019/03/04 10:00 PM +0000
 cover:
   src: "/uploads/2019/03/newsletter-mars-2019.png"
+  alt: Newsletter mars 2019
 category: Newsletter
 author: authors/guidoline.md
 
