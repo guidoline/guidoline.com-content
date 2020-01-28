@@ -13,15 +13,7 @@ cover:
 author: authors/guidoline.md
 published: ''
 description: ''
-date: 
-hero:
-  src: ''
-  alt: ''
-  legend: ''
-  text: ''
-  href: ''
-  icon: ''
-  color: ''
+date:
 
 ---
 **Guidoline** est né en **2010** de trois passionnés de vélo autour d’une même envie : **mettre Rouen en selle**.
@@ -44,7 +36,7 @@ Informations sur l'atelier.
 
 ![L'équipe de bénévole de Guidoline](/uploads/2020/01/equipe-guidoline.jpg)
 
-Être bénévole, c’est donner de son temps libre à l’association, c’est développer ses compétences et partager de bons moments.  
+Être bénévole, c’est donner de son temps libre à l’association, c’est développer ses compétences et partager de bons moments.
 **C’est surtout ça : du plaisir.**
 
 **Peu importe mon profil, je trouverai toujours un rôle qui me convient en fonction de ma personnalité, de mes compétences et de mon temps libre**.
