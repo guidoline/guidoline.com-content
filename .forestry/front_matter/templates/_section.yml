@@ -17,10 +17,13 @@ fields:
     schema:
       format: markdown
   label: Contenu
-- name: link
-  type: include
+- name: section
+  type: field_group
   config: {}
-  template: _lien
-  label: Lien
-  showOnly:
-    value: true
+  fields:
+  - name: section
+    type: include
+    config: {}
+    template: _section
+    label: Section
+  label: Section
