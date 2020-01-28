@@ -1,10 +1,11 @@
 ---
-title: "Newsletter Mars 2019"
-date: "2019-03-05"
+title: Newsletter Mars 2019
+date: 2019-03-05
 cover:
   src: "/uploads/2019/03/newsletter-mars-2019.png"
----
+category: Newsletter
 
+---
 # Newsletter Mars 2019
 **Assemblée générale 2019**
 
