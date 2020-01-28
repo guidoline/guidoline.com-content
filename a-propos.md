@@ -34,7 +34,7 @@ Aujourd’hui l’association fédère plus de **5000 adhérents** à travers un
 
 Membre de l’[ADRESS](http://adress-hn.org/ "ADRESS Agence pour le développement des entreprises sociales et solidaires en Haute-Normandie"), agence pour le développement de l’ESS en Haute-normandie, Guidoline repose sur les **valeurs de l’Economie Sociale et Solidaire** avec cette ambition d’**entreprendre autrement** autour d’un projet économique au service de l’utilité sociale, une mise en œuvre éthique et une dynamique de développement fondée sur un ancrage territorial et une mobilisation citoyenne qui participe au débat sociétal et révèle une alternative.
 
-Guidoline appartient également au réseau national des ateliers vélos [Heureux-Cyclage](http://www.heureux-cyclage.org/ "Réseau national des ateliers vélos solidaires").
+Guidoline appartient également au réseau national des ateliers vélos [Heureux–Cyclage](http://www.heureux-cyclage.org/ "Réseau national des ateliers vélos solidaires").
 
 ## L'atelier
 
