@@ -5,6 +5,8 @@ cover:
   src: "/2019/07/uploads/newsletter-juillet-2019.png"
 ---
 
+# Newsletter Juillet 2019
+
 **Guidoline ouvre un second atelier vélo !**
 
 **Communiqué de presse de la Ville de Sotteville lès Rouen :**
@@ -19,6 +21,6 @@ Voisin de la 3ème maison citoyenne, qui ouvrira ses portes en novembre prochain
 
 Une convention de mise à disposition gracieuse des locaux équipés en conséquence et d’accompagnement financier de l’association a été adoptée par le conseil municipal du 13 juin dernier.
 
-\_\_\_
+---
 
 Suite de la newsletter en suivant ce lien : [http://bit.ly/2t7DmOx](http://bit.ly/2t7DmOx)
