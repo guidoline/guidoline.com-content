@@ -5,6 +5,7 @@ cover:
   src: "/uploads/2019/07/newsletter-juillet-2019.png"
   alt: Newsletter juillet 2019
 author: authors/guidoline.md
+category: Newsletter
 
 ---
 # Newsletter Juillet 2019
