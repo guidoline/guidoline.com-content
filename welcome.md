@@ -14,12 +14,14 @@ sections:
     target: "/a-propos#atelier"
     icon: ''
     color: ''
+    href: a-propos
 - template: _section
   link:
     icon: []
     color: []
     text: ''
     target: ''
+    href: ''
   content: |-
     * Espace convivial d’échange
     * Café, thé, bières, sodas, …
@@ -44,16 +46,18 @@ sections:
     target: ''
     icon: ''
     color: ''
+    href: ''
 date: ''
 hero:
   image: "/uploads/2020/01/vu4t4.jpeg"
   alt: Carte, badges et casquette de cycliste.
-  legend: 'Exemple de description de couverture [250 signes maximum].'
+  legend: Exemple de description de couverture [250 signes maximum].
   link:
     text: Exemple de lien vers du contenu
     href: blog/2019/07/rejoignez-lequipe-guidoline-recherche-une-responsable-datelier
     icon: ''
     color: primary
+  src: ''
 
 ---
 ![L'équipe de Guidoline](/uploads/2020/01/equipe-guidoline.jpg)
