@@ -5,6 +5,7 @@ description: Une newsletter pour souhaiter de joyeuses fêtes de fin d'annèes 2
 cover:
   src: "/uploads/2019/12/photo-carte-adherent2020.jpeg"
   alt: Carte d'adhérents, badges et casquettes
+author: authors/guidoline.md
 
 ---
 # Newsletter de Décembre 2019
