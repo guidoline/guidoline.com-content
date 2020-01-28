@@ -1,12 +1,13 @@
 ---
-title: "Newsletter Février 2019"
+title: Newsletter Février 2019
 date: 2019/02/05
 cover:
   src: "/uploads/2019/02/newsletter-fevrier-2019.png"
-  alt: "Newsletter février 2019"
+  alt: Newsletter février 2019
 category: Newsletter
----
+author: authors/guidoline.md
 
+---
 # Newsletter Février 2019
 
 **Un nouvel agencement de l'atelier !**
