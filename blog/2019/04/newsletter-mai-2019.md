@@ -1,11 +1,12 @@
 ---
-title: "Newsletter Mai 2019"
-date: "2019-04-30"
+title: Newsletter Mai 2019
+date: 2019-04-30
 cover:
   src: "/uploads/2019/04/newsletter-mai-2019.png"
-  alt: "Newsletter mai 2019"
----
+  alt: Newsletter mai 2019
+category: Newsletter
 
+---
 # Newsletter Mai 2019
 
 **Nocturnes #2 et #3**
