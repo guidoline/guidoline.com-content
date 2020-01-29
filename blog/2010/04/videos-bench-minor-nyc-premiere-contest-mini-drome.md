@@ -1,6 +1,6 @@
 ---
 title: Vidéos | Bench minor NYC | PREMIERE Contest | Red Bull Mini Drome
-date: 2010-04-07
+date: 2010/04/06 10:00 PM +0000
 author: authors/guidoline.md
 
 ---
