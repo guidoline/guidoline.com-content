@@ -1,5 +1,5 @@
 ---
-label: configuration.theme
+label: configuration.settings
 hide_body: true
 fields:
 - name: name
@@ -35,4 +35,4 @@ fields:
   default: []
   label: Catégories
 pages:
-- settings/theme.yml
+- settings/settings.yml

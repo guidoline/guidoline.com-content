@@ -28,7 +28,7 @@ fields:
       type: documents
       section: theme
       file: settings/theme.yml
-      path: categories
+      path: ''
   label: Catégorie
 - name: tags
   type: tag_list
