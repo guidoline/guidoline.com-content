@@ -32,8 +32,8 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: settings/theme.yml
-  label: Theme
+  path: settings/settings.yml
+  label: Paramètres
 - type: document
   path: settings/navigation.yml
   label: Navigation
