@@ -1,5 +1,5 @@
 ---
-label: configuration.settings
+label: configuration.global
 hide_body: true
 fields:
 - name: name
