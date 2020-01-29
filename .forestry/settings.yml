@@ -32,7 +32,7 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: settings/settings.yml
+  path: settings/global.yml
   label: Paramètres
 - type: document
   path: settings/navigation.yml
