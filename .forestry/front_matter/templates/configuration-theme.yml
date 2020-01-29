@@ -34,5 +34,3 @@ fields:
   type: tag_list
   default: []
   label: Catégories
-pages:
-- settings/theme.yml
