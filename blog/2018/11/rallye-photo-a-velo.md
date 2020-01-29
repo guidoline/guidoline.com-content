@@ -1,9 +1,12 @@
 ---
-title: "Rallye photo à vélo"
-date: "2018-11-13"
+title: Rallye photo à vélo
+date: 2018-11-13
 cover:
   src: "/uploads/45593428_10156077749413693_4286967017468067840_n.jpg"
+author: authors/guidoline.md
+
 ---
+# Rallye photo à vélo
 
 Vous pensiez avoir manqué l'édition 2018 de notre célèbre Rallye photo ? et bien non la voici enfin !
 
