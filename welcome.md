@@ -49,7 +49,7 @@ sections:
     href: ''
 date: 2020/01/28 12:00 AM +0000
 hero:
-  image: "/uploads/2020/01/vu4t4.jpeg"
+  src: "/uploads/2020/01/vu4t4.jpeg"
   alt: Carte, badges et casquette de cycliste.
   legend: Exemple de description de couverture [250 signes maximum].
   link:
@@ -57,8 +57,6 @@ hero:
     href: blog/2019/07/rejoignez-lequipe-guidoline-recherche-une-responsable-datelier
     icon: ''
     color: primary
-  src: "/uploads/2020/01/vu4t4.jpeg"
-
 ---
 ![L'équipe de Guidoline](/uploads/2020/01/equipe-guidoline.jpg)
 
