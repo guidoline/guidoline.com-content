@@ -1,8 +1,9 @@
 ---
-title: "Vidéos | Bench minor NYC | PREMIERE Contest | Red Bull Mini Drome"
-date: "2010-04-07"
----
+title: Vidéos | Bench minor NYC | PREMIERE Contest | Red Bull Mini Drome
+date: 2010-04-07
+author: authors/guidoline.md
 
+---
 [Bench minor tournament - Bike polo - Nyc march 2010](http://vimeo.com/10724596) from [Uolmo](http://vimeo.com/user1214048) on [Vimeo](http://vimeo.com).
 
 [PREMIERE CONTEST EDIT by Antonin Foliot](http://vimeo.com/10620328) from [SoundTrack](http://vimeo.com/soundtrackparis) on [Vimeo](http://vimeo.com).
