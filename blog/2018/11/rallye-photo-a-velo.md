@@ -4,6 +4,7 @@ date: 2018-11-13
 cover:
   src: "/uploads/45593428_10156077749413693_4286967017468067840_n.jpg"
 author: authors/guidoline.md
+category: Reportage
 
 ---
 # Rallye photo à vélo
