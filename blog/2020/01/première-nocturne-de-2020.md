@@ -17,7 +17,6 @@ related_posts:
 - blog/2016/12/appel-a-idees.md
 
 ---
-
 Le _9 janvier 2020 de 18h00 à 22h00_
 À _Guidoline, 36 rue Molière, Rouen_
 
