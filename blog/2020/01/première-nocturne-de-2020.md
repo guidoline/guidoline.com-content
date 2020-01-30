@@ -17,9 +17,12 @@ related_posts:
 - blog/2016/12/appel-a-idees.md
 
 ---
+
 Le _9 janvier 2020 de 18h00 à 22h00_
 À _Guidoline, 36 rue Molière, Rouen_
 
 Nous ouvrons le bal des nocturnes avec un pot de la nouvelle année, l'occasion de se retrouver après les fêtes et les vacances pour se souhaiter la bonne année, l'occasion de renouveler son adhésion pour 2020 et commencer l'année dans la joie et la bonne humeur.
 
 De la musique sera au rendez-vous avec la clique à corde !
+
+[Retrouvez cette première nocturne de 2020 sur Facebook](https://www.facebook.com/events/1482340858591158/)
