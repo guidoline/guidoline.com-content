@@ -10,7 +10,11 @@ main:
   highlight: false
   name: À propos
 footer:
+- name: Newsletters
+  url: newsletters
 - name: Étiquettes
   url: tags
+- name: Catégories
+  url: categories
 - name: Mentions légales
   url: mentions-legales
